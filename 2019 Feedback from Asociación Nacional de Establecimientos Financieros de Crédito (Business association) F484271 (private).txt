@@ -1,0 +1,12 @@
+In relation to the spanish market, it is unfortunate that although the recognized or qualified
+signature system implemented in the National Identity Document should have been widely
+disseminated, its use however is practically null , in commercial transactions. This is due, on the
+one hand, to the need of the citizen to use an electronic reader and, on the other hand, due to
+the difficulties imposed by the procedures of the aforementioned signature system.
+However, in Spain, the use of the electronic signature has developed significantly in recent years
+thanks to other electronic signature systems authorized by the Spanish electronic signature
+regulations.
+As for cloud signing, a good judicial reception is, in our opinion, not expected in our jurisdiction
+since the signature system is configured outside the user's control sphere, providing, for the
+execution of the signature, that a code must be sent to the user, which obviously lacks the
+necessary security.

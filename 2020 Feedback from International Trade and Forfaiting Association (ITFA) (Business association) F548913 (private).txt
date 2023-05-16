@@ -1,0 +1,216 @@
+ITFA MEMBER PRODUCTS IMPACTED BY EIDAS
+
+❑ Bills of Lading (“Connaissement”)
+▪ Contract of carriage
+▪ Receipt for goods
+▪ Title to goods
+
+❑ Promissory Note ( “Billet à ordre”)
+▪ Simple unilateral and unconditional obligation to pay from one person to another but must
+respect certain formalities
+
+❑ Bills of Exchange (“Lettre de change”)
+▪ An order from one person to another to pay the ordering party and accepted by the other
+person the form of which must respect certain formalities
+
+➢ALL OF THESE INSTRUMENTS MUST BE SIGNED
+AND GENERALLY BE IN PAPER FORM
+
+LEGAL UNCERTAINTY ABOUNDS – EXTRACT FROM 2020 ICC GLOBAL
+SURVEY ON TRADE FINANCE
+
+IMPORTANCE TO TRADE (1):
+BILLS OF LADING
+
+❑ Bills of Lading underpin most imports – conservatively 90%
+❑ Next slide sets out EU import /export data for 2010-2019 in trillion USD
+❑ Usage is massive as can be seen
+❑ Bills of lading are used in both the physical carriage of goods and their financing
+❑ They are therefore an ideal bridge between the two worlds and support real trade
+❑ Recent frauds in Singapore show their vulnerability to forgery and misuse
+
+IMPORTANCE TO TRADE (1):
+BILLS OF LADING DATA
+
+EU 28 external trade: imports and exports (USD trillion)
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+imports
+
+2.47
+
+2.89
+
+2.79
+
+2.72
+
+2.71
+
+2.30
+
+2.29
+
+2.55
+
+2.89
+
+2.44
+
+exports
+
+2.05
+
+2.43
+
+2.45
+
+2.58
+
+2.55
+
+2.26
+
+2.20
+
+2.41
+
+2.61
+
+2.34
+
+Source:
+Coriolis Technologies using data from publicly available sources: UN Comtrade, OECD, Eurstat and
+government sources
+▪ The data presented here are the freight on board (FOB) values for exports (seller costs) and Cost,
+Insurance and Freight (CIF) for imports (buyer costs).
+▪ Values include insurances, which, according to the Berne Union, represent approximately 10% of world
+trade
+▪ Since FOB and CIF are the "shipped on board" values of a Bill of Lading, these values are, effectively, the
+same as total values as bills of lading (with 10% deductible for insurance potentially)
+
+IMPORTANCE TO TRADE (2):
+PROMISSORY NOTES AND BILLS OF EXCHANGE
+
+❑ Importance to Supply Chain
+Finance – 2018 figures
+❑ These instruments underpin
+much of the receivables
+discounting and forfaiting
+industries in Europe and
+would provide greater
+security to much of the
+European SCF industry
+Source:
+European Commission Study on
+Supply Chain Finance: Final Report
+and Executive Summary)
+
+IMPORTANCE TO TRADE (2):
+PROMISSORY NOTES AND BILLS OF EXCHANGE
+
+❑ Bills of exchange and promissory notes are (when in valid paper form) unconditional
+and simple payment obligations capable of easy transmission, registration and
+potentially listing on an exchange
+
+❑ New investors are interested in these assets as trade is safe and yields more than
+cash
+
+❑ Much of this potential market relates to MSME financing
+❑ Trade assets are safe, as successive ICC Trade Register results show (0.06% for
+trade loans during 2014-2018 for example)
+
+❑ Operationally, such investors are accustomed to bonds, the features of which can be
+replicated by notes and bills
+
+IMPORTANCE TO TRADE (3):
+USE IN INTERNATIONAL TRADE RULES
+
+❑ International trade rules (UCP 600 and URC 522) published by the ICC are used in
+almost all letters of credit (28% of global trade finance for 2018 according to the most
+recent ICC Trade Register) and collections respectively
+
+❑ Both sets of rules require the presentation of documents which are in paper form
+❑ New electronic versions of these rules permit the presentation of electronic
+documentation but, as shown above, the main documents used in trade must, in too
+many cases, be paper-based
+
+❑ Allowing these documents to be digitised would ensure success of these rules in the
+digital age with enormous attendant operational and financial savings
+
+EIDAS REVIEW
+SUGGESTED AMENDMENTS (1) - EIDAS TO DEAL WITH DOCUMENTS
+
+❑ All the above trade instruments must be signed but are subject to other legal challenges as
+illustrated above
+
+❑ Article 25 provides for apparent non-discrimination of e-signatures but is of limited effect when
+the signed document is ineffective in other than paper form
+
+❑ eIDAS framework could be amended to provide for a general rule that an electronically signed
+document should not be denied effect because it is in electronic form
+
+❑ Such an amendment would unburden trade documentation from out of date laws which never
+envisaged digital instruments, but which otherwise work well and are used all over Europe
+(and have global counterparts)
+
+❑ UK will introduce fast-tracked legislation next year to overcome these issues
+❑ Article 7 of the UNCITRAL Model Law on Electronic Transferable Records :“An [electronic
+transferable record] shall not be denied legal effect, validity or enforceability on the sole
+ground that it is in electronic form.” [whole document here]
+
+EIDAS REVIEW
+SUGGESTED AMENDMENTS (2) – EIDAS TO FULLY RECOGNISE VALUE OF
+SIMPLE ELECTRONIC SIGNATURES (ARTICLE 25 (1))
+
+❑ In case of the commercial documentation referred to above, the simple electronic signature is
+sufficient to satisfy legal requirements.
+
+❑ In some EU countries (e.g. Sweden) no qualified trust service provider exist. The need for
+speedy transaction times favours simple signatures.
+
+❑ The extra benefits of advanced and qualified signatures are desirable but take-up should be a
+commercial decision and simpler options should not be “second-best”.
+
+❑ Article 25(1) could be amended to confirm that a simple electronic signature is sufficient to
+denote consent or give agreement. A new subparagraph could be added to say that: “An
+electronic signature shall not be deemed incapable of denoting consent or agreement solely
+on the grounds that it is in electronic form or that it does not meet the requirements for
+qualified electronic signatures.”
+
+EIDAS REVIEW
+POLICY PERSPECTIVE - BENEFITS OF THE SUGGESTED AMENDMENTS (1) & (2)
+
+❑ The digitalisation of commercial documents used in international trade is important for trade
+parties as it reduces operational risks and linked costs - the technology exists but the law
+needs to catch up
+
+➢ If we can achieve this goal, the documents can be used more widely and become more liquid.
+➢ The ultimate beneficiaries are the exporters and other companies involved in supply chain financing.
+➢ Thanks to that, supply chain financing can become more affordable for the companies, particularly for
+MSMEs.
+
+➢ Consequently, the digitalisation of these documents could be considered a building block to support
+MSME financing.
+
+❑ The digitalisation of trade documents would also help making regulatory supervision more
+efficient and effective as it facilitates use of digital platforms. This is critical for customs and
+other public authorities involved in trade.

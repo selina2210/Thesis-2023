@@ -1,0 +1,11 @@
+The group of blind clients in many cases has no possibility of independent access to banking services because of the problem with
+identification (the signature often does not match because they cannot see it, etc.), and they are referred to the auditory reception of information, which is, for example, in the case of
+ATMs are counterproductive as it does not allow them to follow sounds from the surroundings for their safety. In many cases, they do so
+in banks and assistants and not themselves, which is not quite right, since it is their private finances and the protection of access and
+the handling of honour. We therefore propose to extend the identification system of banks to include the possibility of fingerprint identification, at least for
+of these persons, with the possibility of adding at least one technician to the equipment. Braille line, connectable via USB to
+computer so that they can monitor the bank's information adequately.
+Such a method would eliminate the need for an assistant to approach the client, further ensure compliance with GDPR regulations for this group
+EU citizens and increase their security, e.g. by recommending that they withdraw money at the bank and not at the ATM, where it is also at risk
+banking secrecy and, in some cases, their safety when withdrawing funds.
+We are ready to concretise this area into the current technical and systemic possibilities.

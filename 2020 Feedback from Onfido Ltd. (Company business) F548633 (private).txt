@@ -1,0 +1,73 @@
+We agree that there are shortcomings in the current eIDAS framework that need to be
+addressed. These shortcomings feed into wider problems that we are experiencing in the
+European digital identity verification market. These include:
+- eIDAS supports a limited amount of trust services and use-cases
+- eIDAS does not establish certifiable standards for all digital identity providers
+- There is a lack of adoption and harmonisation across Member States and verticals
+- Due to lack of adoption, barriers to entry have emerged in specific verticals and
+Member States, hindering innovation
+
+We believe it is extremely important to ensure that a new eIDAS Regulation puts in place a
+comprehensive, robust, standardised / certifiable, highly adopted framework that addresses
+these shortcomings. Before discussing our position on the suggested policy options, we want
+to provide you with background information on the improvements that we believe are
+essential.
+
+- eIDAS should support all use-cases of digital identity
+
+The current eIDAS framework is restricted to specific use-cases and is not a good fit for
+many solutions providing digital identity verification, particularly in the private sector. We
+believe the Commission should create a comprehensive framework for digital identity
+verification, not restricted to specific components and sectors.
+
+- eIDAS does not establish certifiable standards for all digital identity providers
+
+The lack of standards for digital identity providers means that providers are able to use
+unsafe solutions in some Member States, while safe solutions are not accepted in others.
+We believe it is essential that any European legislation on digital identity should set
+standards for digital identity verification providers to ensure everyone operates above a
+minimum bar.
+
+- There is a lack of harmonisation across Member States and verticals
+
+The patchwork of regulations that exists across Member States causes a high level of
+uncertainty for businesses and effectively blocks consumers in some Member States from
+using safe and user-friendly digital identity verification solutions in others. The eIDAS
+framework should address the regulatory fragmentation that exists by providing for mutual
+recognition and requiring Member States and national regulators to accept solutions that are
+considered safe in others to ensure continuity for businesses and consumers alike.
+
+There are barriers to entry in specific verticals and Member States, meaning
+innovative solutions are currently excluded as they don’t comply with
+regulations
+
+With most businesses unable to certify under eIDAS, innovative digital identity verification
+solutions are prohibited from entering some markets. Restrictive and technology-specific
+regulations in some countries (especially in the financial services vertical) are harming
+competition by prohibiting new, innovative solutions from entering markets. It is therefore
+necessary to put in place a framework that is proportionate to the risks presented, ensuring
+solutions can remain user-friendly.
+
+Some of these shortcomings are addressed by the Commission and would be resolved by a
+combination of all policy options mentioned in the roadmap. However, issues such as
+regulatory fragmentation, a lack of standardisation and insufficient consideration of
+innovative solutions, remain unaddressed by a voluntary framework. There is little incentive
+for private providers to notify under a voluntary eIDAS mechanism, and the Commission is
+missing out on an opportunity to regulate a market that is highly fragmented and in need of
+harmonised rules.
+
+Interoperability can only be achieved by setting joint standards and harmonisation. If we
+compare digital identity to a currency, the issues that would arise from establishing a
+voluntary mechanism - while leaving the rest of the market unregulated - become even more
+evident. For the above reasons, we call upon the Commission to create a comprehensive,
+standardised, harmonised and mandatory regulation for digital identity providers that goes
+beyond the eIDAS framework and will provide businesses and consumers with the clarity
+that they need.
+
+In light of the above, ​we would suggest embracing option 4 (an EU-wide digital identity
+scheme), ​but also extending the eIDAS scheme to cover the provision of attributes,
+credentials and attestations (​as mentioned in option 3​).
+
+We appreciate the Commission’s initiative for ensuring trusted digital identities for all
+Europeans and happily remain available for any and all future consultations around this
+topic.

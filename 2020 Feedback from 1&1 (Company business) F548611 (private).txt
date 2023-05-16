@@ -1,0 +1,111 @@
+1&1 welcomes the opportunity to respond to the Commission’s consultation on the revision of
+the eIDAS Regulation | European Digital Identity (EUid).
+
+WEB.DE, GMX and 1&1 have been the first European companies for electronic delivery
+Services certified by TÜViT and the German Federal Network Agency (Bundesnetzagentur)
+under the eIDAS Regulation. WEB.DE, GMX and 1&1 have managed to successfully
+implement qualified trust services, taking into account European standards and national
+legislation. 1&1 is also a founding member of netID1.
+
+We fully support EU-wide standards introduced by the eIDAS Regulation for unique
+identification and digital signatures of electronic cross-border data transmissions. The
+introduction of EU-wide standards for a clear identification has contributed significantly to
+create the basis for Europe-wide, legally valid electronic communications and secure
+electronic identification.
+
+However there is also a need for improvement, especially as the potential of electronic
+identification and authentication under eIDAS remains underexploited:
+
+I. MEASURES SHOULD BE TAKEN PARTICULARLY WITH REGARD TO
+ WIDENING THE SCOPE: We agree with the Commission's assessment that the uptake
+of these eID means is limited and the potential is not being fully exploited. In particular
+the restriction to the public sector restricts the scope for a daily use. A European
+online ID can only work when encouraging wider use. Since no European country can
+achieve this scope on its own, a successful European identity system can only be fit
+for the future if it becomes practical and thus a game changer through daily use. We
+therefore support the view expressed by the Commission that a single trusted
+European ID that can be used both for public and private digital services, could boost
+the digitalization of the Single Market and provide a convenient single-sign-on
+possibility. In this context it should be noted that technical interoperability is the
+prerequisite for a European-wide success. It is therefore particularly important not to
+commit to unilateral technical solutions in advance (e.g. SAML or blockchain), but
+rather to ensure technical interoperability. Therefore, and in order to leverage digital
+identities across the EU Single Market, we highly recommend the Commission to
+endorse the OpenID Connect Standard besides SAML.
+
+1 netID is a European login standard provided by the European netID Foundation. It was founded by ProSiebenSat1 Media SE, the Media Group
+RTL Germany and United Internet with its brands 1&1, WEB.DE and GMX. NetID aims to establish a European alternative to US login providers
+with netID as a Single Sign-on (SSO). netID enables users to organise their data and consents provided to use internet services (opt-ins)
+transparently and in compliance with data protection regulations in a so-called Privacy Centre (https://netid.de/)
+
+MANDATORY INTRODUCTION OF EIDAS AS A SINGLE-SIGN-ON (SSO): The eIDAS
+Regulation should set the course and ensure that citizens can participate in the
+European digital market with a European digital identity rather than having to use
+non-European IDs as offered e.g. by large US platforms | GAFAs (used as an
+acronym for dominant platforms with significant network effects acting as
+gatekeepers). Therefore the eIDAS Regulation must support the mandatory
+introduction of a European Single Sign-on (SSO) regime as an alternative to the US
+platforms. In our opinion the success of eIDAS depends on the user-friendliness and
+a broad coverage. This leads to two main benefits: on the one hand, authentication by
+an eIDAS certified service would ensure a high level of protection of personal data
+and minimise (abusive) use of personal data by providers outside the EU. On the
+other hand, an EU-wide internal market solution would support the availability and
+further development of services based on an increasing demand. eIDAS, set up as
+described above, could therefore help to adapt the market situation and weaken the
+market power of market-controlling services. In order to ensure that the European ID
+system prevails and becomes relevant to the user, it is necessary to expand its daily
+use by including possible applications for identification and/or authentication at all
+levels of trust. In other words, in order to promote the use of new trust services, use
+cases that do not require verified identities must also be supported and offered. The
+presence of a verified identity (substantial or high) shall not be a prerequisite for the
+user’s access to this trust service.
+
+PROMOTE HARMONISATION | MANDATORY INTEROPERABILITY: To ensure wide
+reach, existing SSO standards which are already in conformity with eIDAS should be
+included. The eIDAS regulation should define and complement standards to ensure
+interoperability in consideration of different levels of security. A co-existence of
+different (even national) standards (e.g. de-mail vs. e-mail vs. Bea vs. service portals)
+would reduce the acceptance and use of trust services thus the use of trust services
+in Europe. Although the regulation correctly identifies cross-border interoperability
+and recognition of qualified certificates as a prerequisite for cross-border recognition
+of qualified electronic signatures and specifies the requirements that must be met in
+terms of data transport or electronic signature, it currently does not specify the access
+requirements for participants to exchange data between two eIDAS services. In
+practice, this leads to different market conditions within the EU Member States. This
+interpretability leads to different requirements and the application of different
+standards of conformity (e.g. substantial vs. high), leading to market entry barriers for
+trusted service providers and additional barriers for products within the EU Member
+States
+
+II. ASSESMENT OF OBJECTIVES AND POLICY OPTIONS
+
+BASELINE SCENARIO: This option is not suitable to exploit the potential of
+electronic identification and authentication under eIDAS. This option should therefore
+be excluded.
+
+OPTION 1 (reinforced baseline scenario): We evaluated this option as insufficient.
+Instead, we support additional incentives to accelerate the supply of eID schemes.
+However, additional implementing acts and guidelines do not give enough attention of
+a common binding and future-proof framework. In particular this applies to the private
+sector, where guidelines will probably not prevent the existence of stand-alone
+solutions.
+
+OPTION 2: The extension of the eIDAS framework to the private sector and an
+extension of the catalogue of trust services would be useful to ensure that the
+European ID system prevails and that they become relevant to the user. For this it is
+necessary to extend the daily use by providing a scope for identification and/or
+authentication at all levels of trust, as well as mandatory use in all services that offer
+users login with one or more of the services of GAFAs. Here, an open and federal
+system for all providers (provider model) could play a key role in making different
+account providers available under one brand and standard. Bringing together
+European private and public suppliers under a single, open standard with a single
+logo (example an EC card, that can be used all over Europe) would help to overcome
+the “rivalry” of different private and public providers, as each system would be
+certified and connected in accordance with the overarching standard. Thus users
+would have the freedom to choose providers.
+
+OPTION 3: This option in conjunction with option 2 would be the most
+appropriate to address the problems of the current eIDAS regime identified by the
+Commission in the impact assessment. The introduction of a complementary
+European Digital Identity scheme (EUid) would contribute to establish a system that is
+relevant to all European users.

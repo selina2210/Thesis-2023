@@ -1,0 +1,16 @@
+Hi: thank you for great step forward. Observing various EID schemes so far which the paper categorize them as moderate success but i
+have to say it has a long way to go to serve its core purpose which is cross border transactions and ease of business. While 15 member
+states have developed their own EID schemes and launched it at various levels in their own countries either in public sector usage or
+private sector usage but there is is little to no evidence that there is any motivations for local companies or states to offer authentication on
+their own sites/apps. A German citizen living in France will hardly find any local companies offering authentication via German EID. I am
+sure same is true for most member states.
+
+Combination of option 2 and 3 seems like a best way to to go but the guideline has to be more direct and possibly prescriptive (perhaps
+including form factor) else one of the biggest issue is overlooked which is end user experience which is one of the biggest weakness of
+current EID schemes. Another prescription has to give important to higher level of assurance (allowing any guidance where such wallets can
+be filled by simply a picture of document can have vey low fraud tolerance).
+
+Allowing private sectors to contribute towards global EID schemes will bring the best out of every thing including building some thing which
+is thought with not only business but also end users in mind. The services need to be free for end users where as private IDP providers
+shall have some motivation/reward to offer such services in the interest of end users, perhaps monetized through business that offer such
+services.

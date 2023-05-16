@@ -1,0 +1,30 @@
+Finance Denmark welcomes the initiative to revise the 2014 eIDAS Regulation, extending it to the private sector and promoting trusted
+identities, in general, across Europe.
+
+In Denmark, we have had a well-functioning public/private digital ID solution since 2010 called NemID. It is a public private partnership
+collaboration between the Danish banks and the public sector. It is used extensively, by more than 90 % of the population between 16 and
+90 years, both for public and private services, including electronic banking solutions and in a vast number of other financial e-services that
+requires the security of an eID solution. Public services are almost all digitized, physical mail close to non-existing, and electronic banking is
+used by nine out of ten bank customers.
+
+The NemID solution will be replaced by a new solution in 2021 called MitID, which again is a public/private partnership collaboration
+between the Danish banks and the public sector. The Danish Banks have therefore made large investments in both the current and next
+digital ID solutions.
+
+The Danish financial sector has realized the benefit of working together with public institutions to ensure solutions which would be
+widespread in the Danish public, and therefore been a key player in reducing cost and advancing the digitization of society as a whole.
+
+Within banking, there is a 40 year plus history of building solutions together in areas which are not competitive, e.g. the Danish Central
+Securities Depository, VP Securities, and three data centres servicing smaller and mid-sized banks. In the public/private space, other
+advanced solutions are the Digital Land Registry and e-Skat, a solution giving financial institutions insight in a citizens’ tax information
+based on individual authorizations.
+
+Based on the domestic experience, Finance Denmark sees great opportunities for an extension of the eIDAS framework based on
+interoperability of secure domestic solutions. While the Danish NemID solution (and the coming solution MitID) are national schemes, they
+are built in collaboration with the public sector and are also subject to the eIDAS regulation. The Danish government has notified NemID
+with the Commission in accordance with eIDAS to ensure that the solution is recognized in other member states. This will also be the case
+for the coming solution (MitID).
+
+We have noted that DG FISMA is also looking into the possibility of establishing a digital (financial) ID scheme to be used across the EU.
+Therefore, we encourage the Commission to ensure that the two initiatives are coordinated to avoid duplication of work and/or have
+possibly conflicting requirements.

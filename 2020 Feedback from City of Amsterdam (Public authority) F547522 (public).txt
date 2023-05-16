@@ -1,0 +1,46 @@
+From our reaction you will learn that we are enthusiastic about a more ambitious agenda for the eIDAS
+framework. As one of Europe’s cultural and market pillars, the City of Amsterdam is actively engaging in
+projects to enhance full participation of its citizens and visitors in our modern digital city.
+
+From its conception, the city of Amsterdam has been home to people from all trades and all corners of the
+planet, resulting in an open, free, culturally diverse and creative city. Now that we have clearly entered and
+experienced the full impact of the digital revolution, we seek to uphold the very same values that made our
+city so attractive and flourishing to begin with.
+
+We strongly believe in a people centered approach to technology. As part of our strategic alliance with
+Cities for Digital Rights, our Deputy Mayor Touria Meliani developed an ambitious policy framework “The
+Digital City”, based on principles that are known to enhance trust like: privacy by design, data minimization
+and the use of open source code by default. As one of the pilot cities, we have been active participant of
+the DECODE project. The City of Amsterdam also embraces four main principles providing guidance to
+citizens and entrepreneurs about the values and norms of the digital infrastructure. These four principles
+has been widely adopted in other Dutch cities through the Association of Netherlands Municipalities.
+
+Digital Identity and the eIDAS Regulation
+
+A key concept in The Digital City is an easy to use, safe and reliable Digital Identity. Especially in this
+challenging episode due to restriction of public services on physical locations to our citizens, we need to
+provide people with an easy way to authenticate themselves in the digital realm. There is a clear and
+present need for an easy to use, reliable and safe authentication mechanism for public and commercial
+services, preventing further eroding of people’s trust. This seems to be in line with a more ambitious eIDAS
+regulation, providing citizens in Europe with a shared electronic trust framework for their eID’s.
+
+In cooperation with other municipalities and in cooperation with initiatives from the not for profit sector
+and universities, the City of Amsterdam is actively pushing for a Digital Identity for all of its citizens based
+on the Digital Identity engine IRMA. This engine allows for citizens to have a personal decentralized wallet
+with verified personal data to be used as attributes, credentials and attestations for the kind of datafriendly customized authentication that fits the provisions of the GDPR.
+
+We like to point the European Commission to our positive experiences with decentralized, zero knowledge
+proof eID engines – providing a transparent way to separate personal data and transactions while at the
+same time enhancing privacy by design and data-minimization. Based on ongoing experiments and roll out
+of services we see a potential for these kind of eID’s as part of an extended eIDAS framework.
+
+Based on our positive experience with IRMA we can share with the European Commission our insights in
+ways to more strongly accommodate such technologies. We have seen the shift towards a more attributebased approach in the current revision, but we have not seen such a clear shift towards decentralized
+architectures, where the storage of attributes is under the direct (physical) control of users, and is not
+under control of intermediate parties (who can then monitor who authenticates where, with which
+attributes). In short, we believe the eIDAS approach would benefit from privacy by design via decentralized
+electronic identities.
+
+If the European Commission has an interest to learn more about our experiences and the public services
+we are building with these modern eID’s, we are very happy to provide for a follow-up call, a
+demonstration or more in depth documentation.

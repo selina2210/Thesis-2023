@@ -1,0 +1,33 @@
+I would first like to highlight what I consider to be the positive aspects of eIDAS:
+
++ eIDAS has achieved market development by increasing confidence in electronic transactions and improving interoperability between Member States.
+between Member States.
+
++ It is confirmed that eIDAS has become a reference not only in Europe, but worldwide, both for the regulation itself and for the technical standards that develop it.
+and by the technical standards that develop it or serve as a reference.
+
+The following are the aspects that I believe should be improved:
+
+- There is a need for harmonisation in terms of QTSP audits: the cost in time and money is different from one country to another, which benefits some countries more than others.
+Some countries benefit more than others.
+
+- There is a need to adjust how compliance with certain requirements is demonstrated when providing trust services, for example, in the
+validation of the identity of a natural person for issuing a qualified certificate. In some Member States video
+video embodiment is allowed in some Member States, which substantially lowers the barriers for the issuance of qualified certificates.
+
+- In Spain, it is unfortunately not allowed. While it is true that it is neither necessary nor desirable to regulate everything in order not to strangle innovation and any
+innovation and any option for differentiation, it is no less true that prohibiting mechanisms that facilitate access to trusted services is the best way to put the
+is the best way to put a leading industry, such as the trust services industry in Spain, at the bottom of Europe.
+
+On the other hand, the steps that I believe will or should be taken, in my opinion, are as follows:
+
+x Create a protection profile for the certification of remote qualified electronic signature systems, something that has been in the works for many years.
+
+x Create a protection profile for the certification of remote qualified electronic signature systems, something that has been in the works for many years and, this time, it looks like it can get off the ground.
+
+x Validate the Blockchain for its important role in the provision of trust services, easily "notarising" different transactions that will offer more
+transactions that will offer more credit to the parties and that will complement the trust services in use by guaranteeing the identity of the parties.
+parties.
+
+Finally, I would like to highlight the empowering role of eIDAs that the PSD2 regulation has played. From my point of view there is a good
+synergy between these two European regulations because eIDAS enables PSD2 and in turn PSD2 reinforces eIDAS.

@@ -1,0 +1,100 @@
+United Internet welcomes the opportunity to comment on the
+evaluation of the eIDAS Regulation. WEB.DE, GMX and 1&1 are the
+first European providers to be certified by TUEViT and the Federal
+Network Agency in accordance with the eIDAS Regulation and thus
+offer electronic delivery services as qualified trust service providers.
+
+We fully support the EU-wide standards introduced by the eIDAS
+Regulation for the unique identification of all participants and the
+digital signing of electronic cross-border data transmission. The EU
+has thus created the basis for Europe-wide, legally valid electronic
+communication and secure electronic identification. The introduction
+of eIDAS as a successful European instrument has helped to
+promote trust and acceptance in legally secure communication within
+Europe and to increase availability and use.
+
+WEB.DE, GMX and 1&1 have mastered the successful
+implementation of qualified trust services in compliance with
+European standards and national legislation, but also see a need for
+improvement in practice. The upcoming evaluation should therefore
+be used to identify and improve weaknesses in the current regulation
+with the aim of further increasing the use of and demand for secure
+and trustworthy online identification and authentication.
+In our view, the evaluation should take into account the
+following requirements in particular:
+
+1. Mandatory interoperability:
+
+The mandatory introduction and guarantee of interoperability
+between providers in the area of the qualified trust service for
+enrolment and mail services is essential. In the future, the regulation
+must ensure a mandatory regulation on interoperability and not leave
+this to pure market mechanisms.
+Furthermore, it would be welcome to extend these requirements to
+the non-qualified services.
+
+The regulation correctly mentions cross-border interoperability and the
+recognition of qualified certificates as preconditions for the cross-border 
+recognition of qualified electronic signatures and specifies
+which requirements a certified service must fulfil in terms of data
+transport or electronic signatures. At the same time, however, it does
+not specify which access requirements the participants must have for
+data exchange via two eIDAS services. In practice, this leads to very
+different market requirements within the EU member states.
+
+This interpretability within the eIDAS Regulation leads to different
+requirements and application of different standards of conformity (e.g.
+substantial vs. high), market access barriers for trust service providers
+and different barriers for products in the EU Member States. In
+particular, market entry barriers are of great concern, as member
+states with a lower standard do not accept harmonisation at a higher
+level. This in turn creates incentives for providers to establish
+themselves in the member states with lower standards and the market
+shifts to these states. Providers who are subject to a higher standard
+are thus no longer competitive in the European environment.
+
+Requirements:
+
+◼ Harmonisation of national rules regarding identification with
+European standards.
+◼ Creation of a binding description of interoperability in the area
+of delivery services.◼ Equal regulations / acceptance for all identification
+procedures at national and European level (e.g. for
+VideoIdent and BankIdent).
+◼ Implementation of an overarching supervisory body that
+ensures compatibility and interaction between the various
+supervisory authorities and review bodies and ensures
+equivalence for the creation of a level playing field at
+European level.
+◼ Adopt implementing acts to ensure the implementation of
+uniform conditions.
+◼ Creation of added value, genuine communication solutions, in
+the context of which a response can also be made when
+documents are delivered in the same process.
+
+2. Promote national policy-making and harmonisation
+
+A prerequisite for legally secure communication at European level is
+harmonisation at national level. The existence of different national
+standards (e.g. De-Mail vs. ePostbrief vs. beA vs. service portals)
+reduces the acceptance and use of trust services and slows down
+digitisation and thus the use of trust services in Europe.
+
+In Germany, for example, various systems are currently used for
+trustworthy digital data exchange, such as De-Mail, the special
+electronic lawyer's mailbox (beA) or the electronic court and
+administrative mailbox (EGVP) - the systems are largely sealed off
+from each other and thus do not enable communication with each
+other. This leads to an unnecessarily complicated situation for the
+consumer and unnecessarily increases the barriers to the use of
+eIDAS-certified services.
+
+Requirements:
+◼ Implemented standards must be implemented and applied
+at national level.
+◼ Dissolving national digital parochialism: harmonising national
+and European standards (De-Mail - eIDAS)
+- "EGVP/OSCI").
+◼ Use of existing standards for eGovernment, ERV and other
+mandatory electronic communication.◼ Use cases: Use of different products on the basis of a
+uniform standard.

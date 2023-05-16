@@ -1,0 +1,118 @@
+The feedback provided in this report exclusively aims to
+support the industry’s market growth
+promote adoption and effectiveness of trust services through usability
+boost interoperability among different countries
+promote innovation
+assure quality and security to the users
+
+The content of this document is the result of the author’s experiences, matured on 10+
+years in the field of Digital Identity management and Electronic Trust Services
+
+General considerations
+
+Digital Transformation is profoundly changing everybody’s daily life, both on the
+working than business side, reinventing the way people communicate and interact with
+others. EU Commission President Ursula von der Leyen stressed, in her political
+guidelines, the need for Europe to lead the transition to a healthy planet and a new
+digital world.
+
+Moreover, the COVID-19 crisis has strengthened the importance of digital
+transformation and its tools. Until a few months ago, they were still considered as “nice
+to have” to significantly increase productivity, improve the customer experience, ensure
+security and lower transaction costs. The COVID-19 pandemic has moved Digital
+Transformation to the top of business agendas in 2020 and has proven essential at a time
+when people have been largely unable to leave their homes and to travel. The technology
+has played a key role in maintaining business continuity while reducing exposure to the
+virus and adhering to the social distancing guidance put in place by public health
+officials.
+
+Digital Transformation was finally considered as necessary to assure business continuity
+for companies and organizations of any kind and size.
+
+In this economic and social scenario, digital identity (digID) has become the critical
+enabler of digital transformation. The need to establish individual identities uniquely,
+accurately, quickly and securely is not limited to individuals but extends to legal entities
+(both in public rather than in private sector), machines and devices.
+
+In the same way, interoperability is clearly crucial far Europe that planned to have a
+digital single market but recently had to fight against lockdown.
+
+Regulation 910/2014 (eIDAS) represented a fundamental step in the promotion of a
+digital single market, digitalization is happening at different speeds in EU countries.
+This could be a risk in the next few years, creating entrenchment among the EU
+countries with “the facto” several digital islands instead of a unique market.
+
+Options outlined in the Inception Impact Assessment are not mutually exclusive and
+should be combined in order to achieve a satisfactory outcome - for example a gradual
+adoption seems the most reasonable choice implementing the options in different
+stages.
+
+Regarding Option 1, the recommendation is to create specific guidelines on
+identification including fully remote processes. Furthermore, it is evident that
+technology neutrality is desirable and possible in theory, but in practice it constitutes a
+real obstacle in a cross-border usage of digital identity. To effectively boost
+interoperability, maybe could be helpful to reduce the emphasis on technology
+neutrality in favour of more uniformity and alignment in implementations, especially if
+such uniformity is based on recognized international standards and specifications that
+can be adopted by the stakeholders with a reasonable effort and can also be audited and
+verified by Conformity Assessment Bodies (CAB).
+
+According to the writer, Option 2 consists of a legislative intervention as ambitious than
+powerful. The introduction of new trust services for identification, authentication and
+for the provision of attributes, credentials and attestations and allowing the provision of
+identification for devices constitutes in my vision the right path in the construction of a
+common “playground” with the same rules, guarantees and security for every EU citizen.
+This introduction could benefit from the trending technologies that are arising recently,
+for example the usage of biometric recognition. Of course, the contribution of the
+private sector would be fundamental also in the regulatory phase, so it would be strongly
+recommended that the EU Commission organizes and leads technical workshops in
+which private specialists would be engaged in the definition of the new trust services
+and related standards. Once defined the new services, the provisions of the General Data
+Protection Regulation should be still respected.
+
+Option 3 represents an interesting reinforcement of Digital Identity usage. A fully
+harmonized and common eID framework covering the EU would be a radical change
+from the actual situation, characterized by several different identity schemes, toward a
+unique common standard. On the other hand, this option hides several tricks and
+dangers, such as the direct competition with the private sector that the introduction of
+the European Digital Identity scheme (EUid) would create, a situation that is unlikely
+to yield better solutions and services for the citizens and more generically the users. By
+the way, it makes sense to postpone Option 3 after the proper implementation of Option
+1 and 2.
+
+Conclusions
+
+The lesson learnt from Covid-19 pandemic is that Digital Transformation is crucial and
+has become necessary to guarantee the business continuity of companies and
+organizations of any kind and size.
+
+In this scenario, Digital Identity plays the role of the enabler, due to the need to establish
+individual identities uniquely, accurately, quickly and securely to perform whatever
+digital transaction.
+
+To lay the foundations for Digital Transformation, the update of Regulation 910/2014 is
+a necessary step, that on the other hand will constitute a significant impact for Member
+States, EU citizens, stakeholders and service providers.
+
+To truly create a Digital Single Market, the introduction of new trust services for
+identification, authentication and for the provision of attributes, credentials and
+attestations become the best solution to promote the cross-border usage of eID, limiting
+the growing risk that every Member State adopt a national based authentication scheme
+turning to a “digital island”. To properly implement this, would be necessary the
+organization by the EU Commission of technical workshops, to collect as much as
+possible feedback from the market and from the involved stakeholders. In this way,
+experts from the different Member states and belonging to different sectors and
+stakeholders (public institutions, private companies and service providers, research
+institutions, conformity assessment bodies, universities, etc.) could create new norms
+and standards to define an harmonized and cross-border framework for these “new
+services”.
+
+In my opinion, the right strategy could be the sequential implementation of the options
+included in the inception impact assessment, considering the three options as three
+different phases of a single program with the same goal: enhancing digital identity usage
+in an interoperable and cross-border way.
+
+Each Option constitutes a more significant challenge, so should be implemented after a
+deep analysis (object of specific workshops) of the precursor to provide a first important
+feedback. The implementation of Option 3 is surely the most complicated, so it should
+be defined only after a successful implementation of Options 1 and 2.

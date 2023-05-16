@@ -1,0 +1,38 @@
+In the context of the implementation of Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market electronic identification and trust services for electronic transactions in the internal market and specifically of the Commission's
+CEF programme of the Commission, with an emphasis on the CEF eSignature which aims to help public administrations and businesses to create and verify electronic signatures in the
+companies to create and verify electronic signatures in accordance with the eIDAS Regulation. In this context, the following consultation arises
+concerning the electronic signature of transfer issues in the Castello de la Plana City Council.
+
+The payments ordered by the Castello de la Plana City Council are included in transfer issues, which are made by
+sending by electronic banking of a file in accordance with regulation 34.
+The transfer orders, as they involve an outflow of funds from the municipal accounts, must be authorised by three signatures: Mayor,
+Auditor and Treasurer, as stipulated in the regulations.
+
+Before the implementation of e-administration, signed paper orders were physically presented to the financial institution that had to execute them and the bank that had to execute them.
+and the bank would collate the three signatures to execute the transfer orders.
+
+Nowadays, the financial institution's electronic banking system is accessed and there is no possibility of sending the transfer files to the banks by electronic signature.
+electronic signature; instead, each financial institution has a signature system for sending files, with tokens, with
+coordinate cards, and recently, we have been asked to use a code sent to a mobile phone.
+
+In compliance with the provisions of:
+1¼) Law 39/2015, of 1 October, on the Common Administrative Procedure of Public Administrations.
+2) Law 59/2003, of 19 December, on electronic signatures.
+3) Royal Decree-Law 19/2018, of 23 November, on payment services and other urgent measures in financial matters, which
+specifically establishes the following:
+4. Authentication: procedure enabling the payment service provider to verify the identity of a payment service user or the validity of the use of a given payment instrument.
+the validity of the use of a given payment instrument, including the use of personalised security credentials of the user.
+user's personalised security credentials.
+5. Strong customer authentication: authentication based on the use of two or more elements categorised as knowledge (something known only to the user).
+(something known only to the user), possession (something possessed only by the user) and inherence (something that is the user), which are independent - i.e., that a breach of the user's credentials is not possible without the user's knowledge.
+i.e. a breach of one does not compromise the trustworthiness of the others - and designed in a way that protects the confidentiality of
+identification data.
+
+4) The Commission Delegated Regulation (EU) 2018/389 of 27 November 2017 supplementing Directive (EU)
+2015/2366 of the European Parliament and of the Council as regards regulatory technical standards for strong customer authentication and common open communication standards.
+and common and secure open communication standards.
+
+In view of the above, the following query is raised:
+How should one proceed given that the legally established form for the signature of credit transfer issues by the three
+authorised in financial institutions is the electronic signature, and financial institutions do not have this form of signature for authenticating transactions.
+How should the transfer issue file be sent and signed?

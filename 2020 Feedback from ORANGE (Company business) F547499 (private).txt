@@ -1,0 +1,43 @@
+With eIDAS, the EU laid the foundations and a predictable legal framework for people, companies and public administrations to safely
+access services and carry out transactions online and across borders.
+
+In the context of this Revision of eIDAS Regulation – EUid initiative, digital identity is definitely a critical enabler of transactions, in a hyperconnected economy, and Orange, as a multi-service operator, welcomes an ambitious approach aiming at reinforcing & extending the
+effectiveness of eIDAS.
+
+Digital secure services (public: e.g. e-Government, e-Health and private sector: finance…) will be massively deployed on mobiles. This is
+why Orange considers Option 2 proposed in the Roadmap as key to make it a success. Option 3 is also very promising with regards to the
+creation of a universally accepted EUid to access online public and private services, when identification is necessary.
+
+However, service providers in public or private sector cannot so far easily deploy their secure services on mobiles. They are unable to
+address all smartphones, and to provide a sustainable level of security due to the lack of a favorable framework (contractual, technical…)
+and to the market fragmentation. There is also strong dependency on key global players, like device manufacturers or OS vendors who are
+deploying their own technology and tend to promote their own services.
+
+To improve this situation, Orange has initiated together with the industry the standardization of a generic structure for hosting secured
+services and sensitive data (attributes, credentials, attestations…) in a hardware element of the mobile. This hosting should be
+interoperable and accessible to all service providers from their back-end(s) via standardized interfaces and without significant dependency
+on specific actors. Sensitive user-based information would be safely stored in a hardware element of the mobile and in an isolated way
+ensuring data protection & privacy in line with the GDPR.
+
+The standardization work started in Feb. 2020 in a dedicated GSMA group gathering many key actors like device manufacturers, OS
+makers, chipset vendors and mobile operators worldwide. The requirements should be completed by Q3 2020 and the technical
+specification by Q1 2021, in close cooperation with relevant standards bodies (eg. Global Platform).
+
+This standard solution for secured services could be considered when designing Option 2, by extending the scope of eIDAS to devices.
+
+Indeed, it builds an interoperable and secured framework for the deployment of digital ID and other trust services on devices. For example,
+GSMA defined use cases include identity services supporting the eIDAS level substantial, as well as digitalisation of secured documents (eg.
+driving license on mobile).
+
+Furthermore, the availability of a EUid scheme (Option 3) on mobiles would ease and harmonize the deployment of secured applications
+which require user’s identification across the EU. The standardized solution for secured services could also be considered to implement this
+Option 3, as a way to reduce the current fragmentation.
+
+To summarise, Orange welcomes this Revision of eIDAS Regulation – EUid initiative. Especially, Options 2 and 3 will ease the deployment of
+secured applications on mobiles in the public and private sectors offering many advantages:
+Innovation and competitiveness in public and private sector with increased trust services coverage in device environment.
+Cybersecurity, with a certified security solution meeting the expectations of National and European public authorities.
+Digital sovereignty, with the ability to deploy services without significant dependency on proprietary solutions.
+
+Orange would be glad to share more details about the progress on standardization for secured services on mobiles and explore synergies
+with the eIDAS review.

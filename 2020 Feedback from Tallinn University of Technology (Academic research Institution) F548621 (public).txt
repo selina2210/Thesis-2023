@@ -1,0 +1,8 @@
+Thank you for the possibility to contribute in the eIDAS review process. TalTech Information Systems Group has researched and observed
+the developments of eIDAS for several years. During this period, we have focused on eIDAS implementation practices, analysis of different
+countries and cross-border use of the eIDAS regulation. Based on our experience and research findings, eIDAS is a valuable concept that
+definitely strengthens the EU digital single market. Main challenges come from different practices or interpretation. By combining option 1
+and option 2, it is possible to significantly improve the current situation and make eIDAS more unambiguous and transparent. According to
+the provided documentation, option 3 would result into setting up a parallel scheme to the already existing eID schemes. Therefore, this
+option adds complexity to the eIDAS ecosystem and presumes additional funding. Therefore, we recommend to conduct a cost-benefit
+analysis regarding this option, in particular, because of the use of the EUid is planned to be voluntary.

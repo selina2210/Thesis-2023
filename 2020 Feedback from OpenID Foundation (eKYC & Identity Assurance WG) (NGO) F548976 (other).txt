@@ -1,0 +1,58 @@
+The eKYC and Identity Assurance Working Group (eKYC & IDA WG) of the OpenID
+Foundation welcomes the proposal of the Commission to extend the scope of eIDAS trust
+services by introducing a new trust service for identification, authentication and for the
+provision of attributes, credentials and attestations and allowing the provision of identification
+for devices (Option 2 in the EC Revision of the eIDAS Inception Impact Assessment). This
+will allow companies operating identity solutions to contribute to securing digital transactions
+across the EU.
+
+The eKYC & IDA WG is a dedicated working group of the OpenID Foundation (the technical
+standardisation body specifying OpenID Connect and accompanying extensions). The
+OpenID Foundation delivers specifications for interfaces that enable interoperability between
+implementations, and the eKYC and Identity Assurance Working Group is focusing on use
+cases and extensions to OpenID Connect for communicating strong identity assurance
+(https://openid.net/wg/ekyc-ida/).
+
+Most commercial identity providers have built their solutions on OpenID Connect because of
+its strong support for mobile platforms, ease of integration, formally proven security, and the
+ability to have users explicitly consent. Billions of transactions are performed every day using
+OpenID Connect. A significant number of identity providers, e.g. financial institutions or
+telecommunications operators, are also able to assert digital identities on a level comparable
+to eIDAS trust level substantial or high. A significant number of relying parties and their
+developers are familiar with OpenID Connect as it is used for Open Banking as well as their
+own use cases. In order to leverage the respective digital identities for the EU Single Market,
+we recommend the commission to endorse OpenID Connect beside SAML (which was
+already endorsed under Implementing Act 2015/1501) as a technical standard for eIDAS.
+
+We would also like to mention that several Identity Providers provide access to government
+issued identities via OpenID Connect and even eID systems use OpenID Connect, namely
+itsme (Belgium), BankID (Norway, Sweden, & Finland), and France Connect (France). We
+think this is a strong evidence that OpenID Connect could facilitate the implementation of all
+options given in the inception impact assessment document.
+
+We also know that most commercial identity providers provide a mixture of attributes
+maintained according to different trust frameworks and at different trust levels (just think of
+name vs eMail address) and even self asserted attributes for the same identity. Technical
+standards utilised to implement the updated eIDAS regulation should consider and support
+such use cases by providing a clear delineation between identity attributes verified and
+maintained according to different trust frameworks as well as accompanying metadata about
+sources, validation process, and trust level
+(https://www.slideshare.net/TorstenLodderstedt/identity-assurance-with-openid-connect).
+
+The commission might also want to consider use cases where the digital identity of EU
+citizens is used beyond the boundaries of the EU. The eKYC working group focuses on an
+international standard that is relevant to many jurisdictions with representatives from Japan,
+Australia, UK, US, France, Czech, and Germany. In our experience, international use cases
+increase the requirement for dedicated representation of the aforementioned metadata in
+the technical standard for attribute provisioning in order to allow the relying party to process
+identity data in a robust fashion.
+
+Since the consultation paper mentions blockchain based identity solutions, we would like to
+point out that technical diversity in implementations is of utmost importance for innovations.
+However, adoption across member states and services requires technical interoperability.
+That’s why there is also work under way to provide a bridge between blockchain based
+identity solutions and relying parties via the mature and simple integration with OpenID
+Connect standard.
+
+As subject matter experts in digital identity, we are thrilled with the direction eIDAS is taking
+and are more than happy to offer our advice in the course of targeted stakeholder interviews.

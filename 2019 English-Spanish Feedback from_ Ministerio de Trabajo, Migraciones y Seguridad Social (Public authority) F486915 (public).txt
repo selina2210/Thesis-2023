@@ -1,0 +1,9 @@
+The eIDAS Regulation has been an important step forward in clarifying concepts in relation to authentication and electronic signatures. 
+
+It has corrected errors in the initial stages of the implementation of electronic certificates, especially with regard to the separation of authentication and signature, natural persons and representatives of legal persons, the distinction between signature and seal.
+
+On the other hand, a gap has arisen with regard to authentication systems, which makes it difficult to use qualified certificates for authentication and, in general, in the use of electronic certificates.
+authentication and, in general, in the lack of standards that qualify authentication systems.
+
+Realistic and operational solutions to cross-border use are also lacking, with insufficient emphasis on lists of Qualified Certificates at the European level.
+Qualified Certificates at the European level.

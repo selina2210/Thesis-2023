@@ -1,0 +1,11 @@
+None of these provide substantial improvements. There are currently several areas requiring urgently addressing.
+
+- Pivot from digital identification to digital verification as in the CEPS report. None of these moves in that direction.
+
+- Standards based electronic identities and component based recognition. Today this is based on auditors subjective assessment and the
+cooperation networks whim at whim. It is groundhog day as previously audited components are re-audited unless the same auditor i
+chosen. This leads to arbitrage in choosing auditor.
+
+Mostly this is symptomatic of a culture which is non commercial. As such there is not even sufficient test data to implement sensible in
+another member state. Introducing market forces would surely help on this, and note should be taken that the successful eid schemes (in
+terms of actually being used) are private founded even if some public/private mumbo jumbo has been put on top after the fact.

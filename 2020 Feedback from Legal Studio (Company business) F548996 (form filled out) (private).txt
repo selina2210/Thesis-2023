@@ -1,0 +1,341 @@
+3 General questions about electronic identification (eID)
+
+* Do you have an electronic identification means (eID) which can be used to access online services? 
+Yes
+
+What type(s) of eID do you use?
+eIDs provided by my government or other public authority
+
+* How often do you use your eID to access or use online services?
+Once a month
+
+For what services do you use or would you like to use your eID?
+I would like to use my eID: Public services (e.g. fill in your tax form, request certificates, ...); Other
+
+* Have you found the availability of the eID means or the electronic trust services (e.g. electronic signature)
+particularly useful during the lockdown measures introduced due to the COVID-19 crisis?
+Yes
+
+If yes, what solutions have you used and for what services?
+Online public services (eGovernment): eIDs provided by my government or other public authority
+Financial services: eIDs provided by other private sector organisations
+Concluding contracts remotely: Electronic signature
+
+Are you aware that you can use one of the notified national eID schemes to access online public services in other
+EU Member States?
+Yes
+
+* If you have one of these notified eIDs - have you ever used it to access online services in another
+EU Member State than your country of residence?
+Don't know
+
+How important for you is the ability to use your eID to access public services in other EU Member States?
+Somewhat important
+
+* How important for you is to have a secure single digital ID that could serve for all online services 
+(both public and private) that provides you with the control over the use of your personal data?
+Very important
+
+* How important for you is the ability to use your eID on your mobile phone?
+Somewhat important
+
+4 General questions about electronic trust services
+
+* Have you ever used electronic trust services (e.g. eSignature, eSeal or Timestamp)?
+Yes
+
+
+To what extent do you agree or disagree with the following statements?
+
+* The availability and offer of electronic trust services in the EU is sufficient.
+Strongly disagree
+
+* The eIDAS Regulation needs to be strengthened as a response to the COVID-19 crisis
+Strongly agree
+
+* Providing the same legal effect to electronic trust services (e.g. qualified e-signature is equivalent to
+handwritten one) helped increase their take-up.
+Agree
+
+* I feel more comfortable and confident to use electronic trust services now compared to five years ago.
+Neither agree nor disagree
+
+* Public administrations should roll out more public services, making better use of electronic trust
+services in their contact with citizens and businesses.
+Strongly agree 
+
+
+* Do you think that additional trust services should be regulated at EU level?
+Don't know
+
+5 Specific questions on electronic identity (eID)
+
+* Would you like to answer more specific questions about rules on eID under the eIDAS Regulation and the future digital identity?
+Yes
+
+* Are you replying as:
+Provider of online services (private sector)
+
+
+To what extent do you agree or disagree with the following statements?
+
+* The number of online public services to be accessed in a cross-border context by using one of the published national
+eID schemes has considerably increased due to eIDAS.
+I don't know / no opinion
+
+* The eIDAS Regulation provides an adequate legal framework for cross-border electronic identification in Europe.
+Disagree
+
+The eIDAS legal framework for cross-border electronic identification in Europe should be strengthened as a response to
+the COVID-19 crisis.
+Strongly agree
+
+* The scope of the eIDAS Regulation should be extended to provide a level playing field for the private economic actors
+operating in the field of...
+Agree
+
+* The Interoperability framework established by the eIDAS is optimal and supports sufficiently the mutual recognition of
+the eID schemes.
+Disagree
+
+
+Do you agree that the use of electronic identification to access online public services across borders contributes to:
+
+Enhancing user friendliness: Agree
+* Saving time: Strongly agree
+* Saving money: Strongly agree
+* The simplification of the administrative procedure: Strongly agree
+* An increase of service quality: Neither agree nor disagree
+* An increase of service security: Neither agree nor disagree
+* The protection of personal data: Disagree
+* The better access to services in another EU country: Strongly agree
+* An increase of the certainty on the authenticity of the users' identity: Neither agree nor disagree
+* Enhancing clarity on the liability of the provider of the electronic identity: I don't know / no opinion
+* The access to services to a larger group of users thanks to the uptake of eID: Agree
+
+
+* In your opinion, are there currently any factors limiting the cross-border use of electronic identification? 
+Yes
+
+* What are the factors limiting the cross-border use of electronic identification?
+Legal obstacles (example: face-to-face interaction required by national legislation)
+Suboptimal interoperability framework
+
+
+* To what extent do you agree that the eIDAS Regulation has achieved its objectives with regard to electronic identification?
+Neither agree nor disagree
+
+* In your opinion, should the eIDAS Regulation or its implementation be improved?
+Yes
+
+Which of the following corrective actions should be taken?
+Introduction of new private sector digital identity trust services for identification, authentication and provision of attributes
+
+* In your opinion, should there be a single and universally accepted European digital identity scheme, complementary to the national
+publicly issued electronic identities, allowing for a simple, trusted and secure possibility for citizens to identify themselves
+online?
+Yes
+
+* Which possible advantages of such single and uniform European digital identity scheme are important to you?
+Trust (Government Sponsored)
+Universal Acceptance
+User convenience
+Better control of personal data
+Cost savings thanks to economies of scale
+
+* Which possible dis-advantages of such single and uniform European digital identity scheme are you concerned of?
+Complexity of set-up and Governance
+Set up and operational costs
+
+* Would you like to answer more specific questions about trust services and the eIDAS Regulation?
+Yes
+
+Are you replying as: User of electronic trust services (e.g. citizen, company, public or private service provider)
+
+* Which of the following trust services are relevant to you?
+Electronic signature
+
+
+To what extent do you agree or disagree with the following statements?
+
+* The eIDAS Regulation increased the availability of electronic trust services in the EU.
+Agree
+
+* The level and scope of governance and supervision of electronic trust services established under the eIDAS Regulation are
+adequate to ensure harmonisation at EU level.
+Disagree
+
+* The eIDAS Regulation has put in place conditions conducive to trust services based on decentralised solutions (including
+through distributed ledger technologies)
+I don't know / no opinion
+
+* The legal effect provided to trust services by the eIDAS Regulation (e.g. qualified e-signature is equivalent to handwritten
+one) helped increase their admissibility in legal proceedings.
+Agree
+
+* The cross-border legal effect provided to trust services by the eIDAS Regulation helped increase their take-up.
+Agree
+
+* The assessment procedure for becoming a qualified trust service provider is adequate.
+I don't know / no opinion
+
+* The eIDAS Regulation is a more effective tool to regulate trust services than actions taken at national level.
+Agree
+
+* The provisions of the eIDAS Regulation on trust services have enhanced trust in electronic transactions.
+Agree
+
+Repealing the eIDAS Regulation would have negative consequences for trust services in Europe.
+Agree
+
+
+To what extent do you agree or disagree with the following statements?
+
+* The eIDAS Regulation has increased the availability of electronic signature in the EU.
+Agree
+
+* The availability of electronic signature in the EU should be extended as a result of the COVID-19 crisis.
+Strongly agree
+
+* The use of electronic signature has increased in Europe for the last 3 years.
+I don't know / no opinion
+
+* The eIDAS regulatory framework creates a level playing field for electronic signature in Europe.
+Agree
+
+* The eIDAS Regulation does not hinder technological developments in the electronic signature market.
+I don't know / no opinion
+
+* Citizens, businesses and public administrations in Europe can effectively benefit from the advantages of
+electronic signature.
+Strongly agree
+
+* The eIDAS Regulation has ensured interoperability of electronic signature.
+Disagree
+
+
+To what extent do you agree or disagree with the following statements?
+
+* The eIDAS Regulation has increased the availability of electronic seal in the EU.
+I don't know / no opinion
+
+* The availability of electronic seal in the EU should be extended as a result of the COVID-19 crisis.
+I don't know / no opinion
+
+* The use of electronic seal has increased in Europe for the last 3 years.
+I don't know / no opinion
+
+* The eIDAS regulatory framework creates a level playing field for electronic seal in Europe.
+I don't know / no opinion
+
+* The eIDAS Regulation does not hinder technological developments in the electronic seal market.
+I don't know / no opinion
+
+* Citizens, businesses and public administrations in Europe can effectively benefit from the advantages of electronic seal.
+I don't know / no opinion
+
+* The eIDAS Regulation has ensured interoperability of electronic seal.
+I don't know / no opinion
+
+
+To what extent do you agree or disagree with the following statements?
+
+* The eIDAS Regulation has increased the availability of electronic timestamp in the EU.
+I don't know / no opinion
+
+* The availability of electronic timestamp in the EU should be extended as a result of the COVID-19 crisis
+I don't know / no opinion
+
+* The use of electronic timestamp has increased in Europe for the last 3 years.
+I don't know / no opinion
+
+* The eIDAS regulatory framework creates a level playing field for electronic timestamp in Europe.
+I don't know / no opinion
+
+* The eIDAS Regulation does not hinder technological developments in the electronic timestamp market.
+I don't know / no opinion
+
+* Citizens, businesses and public administrations in Europe can effectively benefit from the advantages of electronic timestamp.
+I don't know / no opinion
+
+* The eIDAS Regulation has ensured interoperability of electronic timestamp.
+I don't know / no opinion
+
+
+To what extent do you agree or disagree with the following statements?
+
+* The eIDAS Regulation has increased the availability of electronic registered delivery service in the EU.
+I don't know / no opinion
+
+* The availability of electronic registered delivery service in the EU should be extended as a result of the COVID-19 crisis.
+I don't know / no opinion
+
+* The use of electronic registered delivery service has increased in Europe for the last 3 years.
+I don't know / no opinion
+
+* The eIDAS regulatory framework creates a level playing field for electronic registered delivery service in Europe.
+I don't know / no opinion
+
+* The eIDAS Regulation does not hinder technological developments in the electronic registered delivery service market.
+I don't know / no opinion
+
+* Citizens, businesses and public administrations in Europe can effectively benefit from the advantages of electronic registered delivery service
+I don't know / no opinion
+
+* The eIDAS Regulation has ensured interoperability of electronic registered delivery service
+I don't know / no opinion
+
+
+To what extent do you agree or disagree with the following statements?
+
+* The eIDAS Regulation has increased the availability of website authentication in the EU.
+Agree
+
+* The availability of website authentication in the EU should be extended as a result of the COVID-19 crisis
+Strongly agree
+
+* The use of website authentication has increased in Europe for the last 3 years.
+Neither agree nor disagree
+
+* The eIDAS regulatory framework creates a level playing field for website authentication in Europe.
+Agree
+
+* The eIDAS Regulation does not hinder technological developments in the website authentication market
+Neither agree nor disagree
+
+* Citizens, businesses and public administrations in Europe can effectively benefit from the advantages of website authentication.
+Agree
+
+* The eIDAS Regulation has ensured interoperability of website authentication.
+I don't know / no opinion
+
+
+* Please specify which additional trust services should be regulated at EU level: Electronic identification and authentication
+
+Do you agree that the use of trust services established by the eIDAS Regulation contributes to:
+
+* Enhancing user friendliness: Agree
+* Saving time: Strongly agree
+* Saving money: Strongly agree
+* The simplification of the administrative procedure: Agree
+* An increase of service quality: I don't know / no opinion
+* An increase of service security: Neither agree nor disagree
+* The protection of personal data: Neither agree nor disagree
+* Ensuring legal certainty: Disagree
+
+
+* Do you think the legal effect provided to electronic documents by the elDAS Regulation has effectively increased 
+their take-up and admissibility in legal proceedings?
+Neither agree nor disagree
+
+* In your opinion, are there any factors limiting the use of electronic trust services?
+Yes
+
+* What are the factors limiting the use of electronic trust services?
+Lack of trust or fraud concerns
+Preference for paper-based solutions or face-to-face interactions
+Privacy concerns
+Not enough legal certainty
+
+* To what extent do you agree that the eIDAS Regulation has achieved its objectives with regard to electronic trust services?
+Neither agree nor disagree

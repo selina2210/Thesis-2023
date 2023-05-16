@@ -1,0 +1,32 @@
+The eIDAS Regulation is a key asset for European actors as it has created a unique legal certainty
+regarding trusted services and the VDSIC has built its trust model for the Digital Visible Seal Scheme on
+the eIDAS one. Our trust model has been also promoted to several countries around the world and
+some of them has adopted it such as the Canada and Tunisia.
+
+Regarding the consultation from the European Commission, our preferred option is Option 1:
+supplementing the current eIDAS Regulation with an implementing acts and technical guidelines.
+
+There should be a clear focus on the exploiting of all the current possibilities already offered by the
+current eIDAS Regulation.
+
+The recent Regulation (EU) 2019/1157 — strengthening the security of identity cards and of residence
+documents issued to EU citizens and their family members exercising their right of free movement has
+also a key role in helping the Sovereign eID to become the root of trust of the European Digital Identity.
+
+The Digital Identity should be considering as a critical infrastructure and the notification process at
+European level shall remain a prerogative of the Member States.
+
+The use of a Digital Visible Seal on notified Sovereign eID can help to fully harmonize the “seed” for
+opening eID cards in NFC mode using a smart phone. This “seed” can be read by any smart phone using
+a standard camera. As this “seed” is protected in terms of authenticity and as most of the eID cards
+are certified according to the Common Criteria scheme (SOGIS MRA and EU CyberAct CC scheme) the
+LOA High can easily be achieved.
+
+To complement our position on the Option 1, we call also the European Commission to call the
+European Standard Organizations to complete the current set of standards that are referenced into
+the eIDAS.
+
+For our Association, the two other options proposed by the European Commission could trigger the
+privatization of European Digital Identity and they would be in full conflict with its political message
+on European Digital Sovereignty. The Sovereign eID notified in accordance with the eIDAS Regulation
+is an essential asset and shall be protected and further developed.

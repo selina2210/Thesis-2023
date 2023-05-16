@@ -1,0 +1,39 @@
+Synthesis of the Thales DIS position - August 2020
+
+The eIDAS regulation has been a valuable milestone toward a common basis for trusted digital identities and trust services. Thales DIS
+welcomes the assessment of the 2014 regulation and supports its objective to make easier and safer the use of online services while giving
+people more control over their personal data and privacy.
+
+Option 1:
+
+In this respect, harmonization as mentioned in option1 appears as a necessary step to establish solid foundations across the EU, on top of
+which further enhancements and extended usages of eIDs under eIDAS can be fostered. In particular, deeper harmonization of certifications
+will bring more confidence and trust to stakeholders, and will finish clarifying the eIDAS security requirements and Levels of Assurance –
+LoAs -. The recent adoption of the Cybersecurity Act and the coming EU CC scheme arrive at the right time to smoothly achieve such
+harmonization.
+
+Option 2:
+
+Sovereign eIDs are assets the private sector could advantageously leverage on to develop its own identification frameworks. Typically,
+giving to banks the capability to rely on national eIDs solutions to implement strong digital ID verification would bring trust and
+convenience to their KYC procedures. Promoting synergies between the eIDAS regulation and AML and PSD directives would accelerate the
+deployment of national eID solutions at assurance level high, and would stimulate their adoption by private actors.
+
+To boost such adoption and further structure private eID frameworks, a dedicated regulation should give a mandate to European
+Standardization Organisations (ESOs) to define the necessary harmonized standards for the reuse of notified eID schemes by the private
+sector. This harmonized standard should address private eIDs and attribute providers as well as private services accepting them (also called
+relying parties). It should consider data privacy, identity and attribute proofing, and strong binding of private attributes with a notified eID
+under eIDAS.
+
+This dedicated regulation should also identify or request the development of a European Certification Scheme, under the CyberAct, when it
+comes to the evaluation of private eID schemes. This Certification Scheme should benefit from the harmonized certifications processes
+defined by option1 for sovereign eIDs. Finally, this dedicated regulation should provide the necessary means to ensure a clear legal
+framework and a liability shift for private actors.
+
+This dedicated regulation would be a pragmatic alternative to option2 while keeping its main objective to extend the scope of eID
+regulations to the private sector. It would decrease the overall risk of identity theft while enhancing user privacy in online services.
+
+Option 3:
+
+A European Digital Identity Scheme as introduced in option 3 could quickly be achieved with a European label on top of national eIDs
+notified by Member States.

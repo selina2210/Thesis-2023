@@ -1,0 +1,15 @@
+prerequisitions:
+Digital identity is only one
+Authentication (validation of identity) can be done by multiple ID means on different level
+
+EU must give guidelines not only to digital identity and trustworthy services like current eIDAS, but must give guidelines (or directive) to
+member states on ID means. It´s not enough to have 1 ID means (national ID card for example). There must be divided between personal
+ID means and profesional ID means. Like:
+1) I (as a citizen) want to use public service (pay tax) - I will use personal ID means
+2) I (as a clerk, healthcare professional, soldier, police officer...) want to use public service (for my work) - I will use profesional ID means
+
+Both leads to 1 digital identity but it´s not recommended to use personal ID means in my proffesion, on the other hand it´s not
+recommended to use profesional ID means in personal things.
+
+There can be even restriction - some public services can´t used some ID means - I can´t use Healthcare profesional ID to sell my house
+even it leads to same digital identity and it has same LoA as other means.

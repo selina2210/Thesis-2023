@@ -1,0 +1,42 @@
+France's 15,000 notaries and their staff use qualified e-identity and e-signature services 
+on a daily basis, making the French notary's office one of the leading users of these 
+technologies nationwide. French notaries are among the leading users of these technologies 
+at national level. Thus, the Conseil supérieur du notariat is concerned by the revision of the 
+e-IDAS regulation and would like to be heard by the European Commission's services during their 
+preparatory services during their preparatory work.
+
+The document entitled "Inception Impact Assessment - Revision of the eIDAS Regulation ≠ European 
+Digital Identity (EUid)" proposes three options.
+
+Option 1 seems to us to be unambitious in view of the issues at stake at the moment and option 3 
+particularly cumbersome to implement when it is the deployment of these technologies. In order to 
+be able to draw up authentic instruments remotely by videoconferencing, French notaries need to 
+rely on e-identity tools deployed on a very large scale. Furthermore, for reasons of administrative 
+coherence and the proper functioning of the Member States, it seems to us essential to leave the 
+function of issuing authorities the function of issuing identity documents, whether they are digital 
+or on physical media.
+
+Option 2 attracts all our attention. It seems important to us that e-identity tools can be more easily 
+complemented by attributes of quality. attributes. The attributes should not be directly attached to 
+the e-identity tool but made available on national servers.
+For example, for a natural person with several qualities: citizen, notary, mayor, president of a 
+non-profit association, etc., the attributes of the e-identity tool should be made available on national 
+servers. the attributes stored on a national server could allow to act and be recognised as such on 
+different online services, depending on the activities performed. online services, depending on the 
+activities carried out, without having to have several e-identity tools.
+
+The management of quality attributes by national authorities seems to us to be both the right level of 
+proximity to the user and the right level of interaction at national level. the right level of interaction 
+at European level. It would be their role to technically qualify natural persons AND to determine who 
+has the right to read the attributes. Thus, for example, a possible quality attribute indicating that 
+a person is under protection regime could only be read by a restricted list of actors: courts, notaries, banks, etc.
+
+The European Commission should also propose measures to enhance the standardisation of quality certificates
+in order to make it easier to qualify in different countries. The European Commission should also propose 
+measures to strengthen the standardisation of quality certificates in order to make it easier to qualify 
+in the different Member States and to read the certificates.
+
+Finally, it seems important to us that the European Commission stimulates the market of trust service 
+provision tools so that there is Finally, we believe it is important that the European Commission 
+stimulates the market for trust service delivery tools so that there is more creativity in Europe 
+but also more competition between the players.

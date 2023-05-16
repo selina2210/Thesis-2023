@@ -1,0 +1,79 @@
+Bundesdruckerei GmbH would like to contribute to the successful creation of a
+future-proof legal framework to support an EU-wide, trustworthy and secure system
+for identities and trust services in the digital space. Accordingly, with reference to
+the three "policy options" set out in the EU Commission's roadmap, we propose that
+the following three points be taken into account:
+
+1) Hardware security modules as a technical basis for EU-wide secure
+digital applications
+The eIDAS Regulation should be further developed to create a usable, secure and
+interoperable digital identity for public and private online interactions in the
+European Union. Revisions aimed at improving the coherence, consistency and
+interoperability of the existing eIDAS framework, for example through guidelines
+on liability principles to promote the use of eIDs in the private sector, should be
+pursued in accordance with this (see Policy Option 1). The Regulation should also
+be amended to simplify the notification procedures for Member States. In
+addition, Bundesdruckerei suggests establishing common rules for the use of
+hardware security modules (either in the form of Universal Integrated Circuit
+Cards (eUICCs), also known as eSIM, or embedded secure elements, also known
+as eSEs). Modern smartphones are equipped with these modules, which are
+perfectly suited to support digital applications, e. g. for digital identities in a
+secure and trustworthy way. The aim should be to establish a union-wide
+technical minimum standard for hardware security modules that harmonizes
+basic security mechanisms while giving Member States discretion with the
+implementation of country-specific solutions. Therefore, Bundesdruckerei
+urgently recommends to standardize the access of eSE and eSIM and to oblige
+Original Equipment Manufacturers (OEMs), respectively the Mobile Network
+Operators (MNOs) to open their hardware security modules for third parties. This
+uniform standard would be a big step for digital sovereignty within the European
+digital single market demonstrating the security and trustworthiness of mobile
+ID solutions, while helping to make the topic more transparent and
+comprehensible for citizens and service providers alike. In this context, the
+OPTIMOS 2.0 project initiated by the German Federal Ministry for Economic
+Affairs and Energy is a promising approach that could be used throughout the
+EU, as it creates the basis for reliable, unambiguous identification and
+authentication in the digital world while complying with the highest security and
+data protection standards. It also creates - irrespective of the future shape of
+EU-wide digital identity management - the preconditions for further digital
+applications.
+
+2) Strengthening and expanding national eID usage
+
+Bundesdruckerei welcomes the broadest possible use of national eIDs. The
+extension of national eIDs to the private sector should thus be pursued as fast
+as possible (see Policy Option 2). More private use cases in a wide range of
+services can generally strengthen the use of national eIDs. In this context, the
+use of national eIDs can be further promoted through incentives that encourage
+a wider voluntary acceptance of national eIDs by companies. Mandatory use in
+some areas could also be envisaged. In this regard, the Payment Services
+Directive 2 is a strong example of how the tools from the eIDAS Regulation can
+be effectively integrated into legislation. A pan-European interoperable approach
+on the basis of OPTIMOS 2.0 could also create a new market for European
+sovereign and trusted mobile applications, ranging from government documents
+and credentials to private sector applications such as high-priced tickets or
+access and vehicle keys.
+
+3) Strengthening the state design of national eIDs
+
+The eIDAS Regulation provides for mutual recognition of notified identification
+instruments existing in the Member States and thus already provides for a common
+European eID ecosystem by creating interoperability between national systems (see
+Policy Option 3). The additional introduction of a European eID (with its extremely
+high legal and technical complexity) would probably slow down the ongoing process
+of the eIDAS Regulation and would not address the lack of use cases.
+Bundesdruckerei therefore recommends that the concrete design of the national eID
+systems should continue to be left exclusively to the Member States which must
+assume liability for the authenticity of an identity and validate the national eID.
+
+Conclusion
+
+The combination of Options 1 and 2 offers the opportunity to make the best of the
+EU standards already developed by CEN and ETSI in Mandate 460 binding by means
+of Implementing Acts and to significantly improve the integration between eIDAS
+eID services under Part II and the trust services under Part III. The Member States’
+uptake of the optimised eIDAS Regulation should then be made mandatory for
+special sectors, for example social and tax services.
+
+The window of opportunity for saving European digital sovereignty is very small and
+a practical implementation of the "better eIDAS" to enable the digital single market
+and seamless public services should be completed in 2021.

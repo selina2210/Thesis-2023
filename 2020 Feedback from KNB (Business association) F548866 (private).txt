@@ -1,0 +1,38 @@
+With regard to the commitment of the European Commission to revise the eIDAS regulation (910/2014) and the current “roadmap
+consultation”, the Royal Dutch Association of Civil-law Notaries (KNB) would like to inform you about its concerns and recommendations.
+
+Just like the European Commission we also believe that sufficient choices for citizens for an identity service provider established within the
+EU will give the citizens more sovereignty to decide to which third party they would disclose personal data or not. A clear separation
+between the collection of personal identity data and the collection of other data for commercial exploitation would reduce the possibilities of
+online platforms to make use of personal data for profiling of citizens or to obtain a monopoly in a certain area.
+
+According to us an enormous need exists for a strong eID for EU citizens with an extension of eIDAS level ‘high’, issued by an independent
+organization like public authorities or notaries. The extension should consist of en vivo face to face identification, biometric aspects and
+additional safeguards to prevent fraud and to protect the EU citizen as much as possible. We are willing to discuss the possibilities and our
+ideas for this eID with eIDAS level “High Extended” with you.
+
+Regarding your intentions to launch an European Digital Identity scheme (EUid) we would like to emphasize that it is important that besides
+public eID’s also private suppliers are allowed to offer eID services to public and private online service providers. In general, private
+companies are able to offer innovative and cost-effective eID solutions. The development of eID’s should at least partly be left to the
+market. We assume that also private providers will have the opportunity to become certified and registered in accordance with the EUid
+scheme and this will not become only a public eID.
+
+It is furthermore important that the schemes to obtain a registration as trusted service provider are equal throughout the EU to prevent
+unfair competition. For example currently compliance of eID’s with the eIDAS requirements differs between member states, which might
+cause unfair competition.
+
+Whichever option mentioned in the Inception Impact Assessment is chosen, it is important to realize that several public and private eID
+providers are already developing and investing for years now. For this reason the (technical) requirements for eID suppliers with eIDAS
+levels “substantial” and “high” should not change significantly to prevent additional costs or investments for eID providers and discouraging
+in stead of encouraging the development of eID products.
+
+Another important concern is the lack of a system for acknowledgement of advanced electronic signatures. Advanced electronic signatures
+are frequently used in business, real estate and business to consumer relations. However in contrary to qualified electronic signatures there
+is no ‘EU Trusted List of Trust Service Providers’ for advanced electronic signatures. For companies and citizens it is almost impossible to
+determine whether such a digital signature is reliable or not. We advise to develop an acknowledgement system comparable with the EU
+Trusted List for qualified electronic signatures.
+
+At last we would like to mention that the KNB is involved in the development of an eID with eIDAS level “high” called ‘NotaryID’ for the
+notaries in the Netherlands, which will be used for access to digital systems of notaries and KNB and for signing of digital notarial deeds
+(qualified electronic signatures). This eID will only be issued after en vivo face to face identification at a notary office. In the future this eID
+might become available for digital identification outside the notarial environment.

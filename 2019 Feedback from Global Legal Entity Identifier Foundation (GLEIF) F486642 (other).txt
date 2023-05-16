@@ -1,0 +1,106 @@
+The Global Legal Entity Identifier Foundation (GLEIF) is pleased to provide comments to the European
+Commission on the Report on the Application of the eIDAS Regulation Evaluation Roadmap.
+
+The Global Legal Entity Identifier Foundation (GLEIF) is pleased to provide comments to the European
+Commission on the Report on the Application of the eIDAS Regulation Evaluation Roadmap. GLEIF will
+focus its comments on the use of the Legal Entity Identifier (LEI) in the consultation.
+
+First some background on the LEI.
+
+The development of a system to uniquely identify legal entities globally had its beginnings in the 2008
+financial crisis. Regulators worldwide acknowledged their inability to identify parties to transactions
+across markets, products, and regions for regulatory reporting and supervision. This hindered the ability
+to evaluate systemic and emerging risk, to identify trends, and to take corrective steps. Recognizing this
+gap, authorities, working with the private sector, have developed the framework of a Global LEI System
+that will, through the issuance of unique LEIs, unambiguously identify legal entities engaged in financial
+transactions. Although the initial introduction of the LEI was for financial regulatory purposes, the
+usefulness of the LEI can be leveraged for any purpose. The LEI is use case agnostic and can be used in
+any process of entity identification, from finance to healthcare to verifying all counterparties of
+businesses supply chain.
+
+The LEI initiative is driven by the Financial Stability Board (FSB) on behalf of the finance ministers and
+governors of central banks represented in the Group of Twenty (G20). In 2011, the G20 called on the
+FSB to take the lead in developing recommendations for a global LEI and a supporting governance
+structure. The related FSB recommendations endorsed by the G20 in 2012 led to the development of
+the Global LEI System that provides unique identification of legal entities participating in financial
+transactions across the globe and the subsequent establishment of the GLEIF by the FSB in 2014. The
+GLEIF is overseen by a committee of currently 71 global regulators and 18 observers, known as the LEI
+Regulatory Oversight Committee (LEI ROC). Different European Union institutions such as European
+Commission, ESMA, ECB and EIOPA are represented in the LEI ROC. Mr. Gaetano Chionsini from the
+European Banking Authority represents the European Union in the LEI ROC Executive Committee.
+
+The LEI itself is a 20-digit, alpha-numeric code based on the ISO 17442 standard developed by the
+International Organization for Standardization (ISO). The code connects to key reference information
+that enables clear and unique identification of legal entities participating in financial transactions
+including their ownership structure. Moreover, the LEI provides freely accessible look up (identification)
+of the parties to transactions. The complete database of LEIs and the associated LEI reference data is
+available free of any charge or barrier to anyone on the web. GLEIF operates under the Open Data
+Charter terms, which means the data can be used by all users without limitations.
+
+Knowing precisely who you are doing business with is important for trust in the European digital
+economy and the EU should assess the need to adopt an EU-wide standard to foster that trust – such as
+the already existing global standard overseen by regulators, the Legal Entity Identifier.
+Within the eIDAS Regulation the LEI is already accepted as an optional attribute for legal entities’ data
+sets in transactions between eIDAS nodes, i.e. interfaces between national eID infrastructures. The LEI
+can be used within eIDAS-compliant digital certificates as the eIDAS Regulation includes a tag for digital
+identification tools such as the LEI to be embedded within certificates and seals to support identity
+validation and management. As a global identifier, the LEI can serve as a bridge between EU Member
+States connecting their national eID schemes, and therefore facilitating cross-border identification
+processes within the EU.
+
+Making the use of the LEI as mandatory (as the preferred identifier when available) in legal entities’ data
+sets in transactions between eIDAS nodes would further increase the interoperability of the eIDAS
+framework, making cross-border electronic transactions more efficient and secure. The use of the LEI
+allows for a persistent identification code to be present throughout successively issued digital
+certificates, thus enhancing trust in internet transactions and providing reliable and trustworthy
+information on the ownership and authenticity of electronic documents and, thereby transactions.
+Consumers and businesses would benefit from increased transparency in the EU’s Digital Single Market.
+
+In partnership with XBRL International, GLEIF has published its 2018 annual report in human and
+machine-readable Inline XBRL and HTML format, with GLEIF’s LEI embedded into the financial
+information for the first time. It becomes the first official business report globally which automatically
+links the filing entity to its verified LEI reference data held within the Global LEI Index.
+
+Furthermore, within GLEIF’s 2018 annual report, GLEIF’s LEI is also embedded within the digital
+certificates of GLEIF’s signing executive officers. These certificates, for the first time, connect the role of
+the signatory to an organization through the LEI and can therefore be used to verify – automatically,
+through the shared LEI – that the filed document and the signatories represent the same organization.
+Incorporating a company’s LEI within digital certificates of its executive officers used to sign financial
+statements provides reassurance on the data’s reliability and that the information has not been
+tampered with, despite permitted access to the filed document via any public server globally. Deploying
+digital signatures, including that of the auditor, also enables efficient report production and distribution
+processes, the elimination of paper and increased certainty and trust.
+
+The digital certificates of GLEIF’s signing executive officers included with its 2018 annual report are
+compliant with the eIDAS Regulation.
+
+PSD2 requires that Account Servicing Payment Service Providers (ASPSPs) should design their channels
+in such a way so that Third Party Providers (TPPs) are able to identify themselves when accessing these
+channels. For the purpose of identification, ASPSPs and TPPs shall rely on using eIDAS Certificates for
+electronic seal and/or for website authentication. Identifying themselves is mandatory for all TPPs that
+wish to get access to ASPSP’s sandbox, live API, and/or non-dedicated channel. GLEIF proposes the use
+of LEI in eIDAS certificates for unambiguously identifying all these participants.
+
+ISO/TC 68/SC 8 is working on the technical standards for the application of the LEI in digital certificates
+(ISO/WD 17442).
+
+By updating and expanding the use of the LEI within the eIDAS regulation, EU authorities ensure
+interoperability of the framework and support the 'once-only-principle'.
+
+GLEIF works to simplify the identification for digital age by combining the LEI with digital certificates.
+This would allow anyone to easily relate all records associated with an entity, determine which are
+current and clear up any variances. It will also allow business users to easily assess information on who
+owns whom.
+
+This seemingly minimal addition will significantly reduce the complexity and cost – both people and
+technology-related – associated with due diligence and validation of customers, partners and suppliers.
+LEI codes could replace the reference data of a legal entity within an eIDAS compliant digital certificate,
+as well as the issuer entirely, making certificate handling faster (less payload) and the most current
+information about the legal entity could be obtained on demand from the Global LEI System via
+application programming interfaces (APIs). The LEI could become an essential building block for the
+usage of digital certificates – and digital signatures – in any kind of distributed supply-chain.
+
+GLEIF also is conducting further research on the use of LEIs for digital transactions focusing on the use of
+the LEI in digital verifiable credentials which can be secured cryptographically. If successful, this research
+could lead to legal entities having digital identities that could be used in a chain of trust for numerous
+use cases from regulatory and supervisory filings to business contracts and transactions.

@@ -1,0 +1,130 @@
+I. General remarks
+
+Secure digital identities are seen as a key factor for further digitisation in
+Europe and a stronger convergence of the Digital Single Market and more
+efficient administration. eco therefore welcomes the efforts to strengthen
+trust services based on corresponding technologies. Efforts to date have not
+yet been sufficiently successful and greater dissemination of corresponding
+services in administration, business and society would be desirable. In
+general, it can be observed here that the eIDAS legal framework has created
+the basis for numerous special applications that are mainly used in business
+transactions (B2B). For simple single sign-on services, however, which are
+used in less critical areas, the legal framework is currently not yet well
+developed. However, it is precisely this area (C2B) that is central to the
+continued success of trust services.
+
+II. About the Inception Impact Assessment in detail
+
+▪ On the "Problem, the initiative aims to tackle".
+
+In the Commission's view, the dissemination of trust services can still be
+expanded. In principle, this assessment is correct, as is the concern about
+the rather slow implementation of the regulation in the member states. 
+The legal framework for digital identities, which is currently not particularly 
+well developed, also leads, as the Commission rightly recognises, leads to only 
+a hesitant development of the possibilities for digital identities.
+
+Even if a market approach is fundamentally welcome for the development of 
+various solutions for digital identities and associated services such as 
+single sign-on services, the problem of insufficient scaling and fragmentation 
+that often occurs in the market remains. From eco's point of view, the creation 
+of a standardised digital identity based on an open standard with a corresponding 
+data format would be welcome here.
+
+▪ On "Objectives and Policy Options
+
+For an ambitious project such as a European digital identity (EUid), the legal
+framework will have to be adapted and, if necessary, further pre-legislative
+regulations will have to be created. Based on this realisation, eco does not
+consider the retention of the existing framework described under the
+"baseline scenario" to be a particularly suitable approach for achieving the
+goals.
+
+The eco also believes that the "extended baseline scenario" elaborated
+under "Option 1" will not be sufficient to ensure sufficient homogenisation in
+the development of digital identities. The national eIDs developed in the
+Member States in this framework also bear the risk of fragmentation, which
+is not sufficient in the light of the objective of a common digital single market.
+The proposal listed under "Option 2" to expand the eIDAS Regulation to
+include a European digital identity based on market design is promising from
+eco's point of view and could serve as a basis for further digitisation and the
+promotion of digital identities. However, care must be taken in the design that
+the planned regulations do not diverge too much in the individual member
+states or create a fragmentation of the market.
+
+With regard to the ideas suggested under "Option 3", eco welcomes the
+approach of a uniform digital European ID (EUid) that is compatible with the
+eIDAS framework and further legislation. eco points out, however, that the
+provision of services and IDs should ideally take place on the market and
+not through sovereign acts within the framework of the administration. As far
+as the obligation to provide corresponding products and services for their
+use is concerned, eco believes that there is a need for further discussion. An
+obligation of private providers to use EUid, in the worst case even a single
+specific product, is considered by eco to be not very expedient. The wording
+of the Inception
+
+However, the wording of the Inception Impact Assessment suggests that this is 
+precisely what is intended. eco rejects this proposal. It should also be emphasised 
+that the planned euID should ideally be designed as an open standard / open data format, 
+if necessary with further technical requirements, so that a wide variety of providers 
+are able to providers are able to easily integrate it into their services and link 
+it to other services and products. services and products and, conversely, that EU 
+citizens have the opportunity to citizens have the possibility to register an EUid 
+with a provider of their choice. provider of their choice. eco advises against a 
+state solution.
+Previous efforts in this direction have been unsuccessful due to their almost 
+exclusive have not been successful in the market due to their almost exclusive 
+focus on administrative services.
+
+On Preliminary Assessment of Expected Impacts
+
+As already outlined, the retention of the existing legal framework is likely to
+result in only a few significant impulses for the dissemination of digital
+services. eco therefore advocates an adjustment of the legal framework.
+
+The extent to which the two scenarios listed under Option 2 and Option 3 are
+suitable in detail to promote the desired goals of greater use of digital
+services cannot be conclusively assessed at present and depends on the
+concrete design.
+
+In the opinion of eco, a Europe-wide approach and a uniform ID with a view
+to forming a digital single market with uniform and equal rules throughout
+Europe, as described in option 3 with the help of the EUid, is desirable.
+However, it is crucial that these plans for an EUid and the associated
+services take into account the character of an open internet that can be
+used by everyone and that the basic ability to connect and integrate with
+other services and a high degree of interoperability are guaranteed. Unlike
+previous national projects, which have relied on proprietary solutions, the
+EUid should accordingly also be open and able to be integrated by a wide
+variety of service providers and product developers into their services and
+applications easily and without additional costs or licence fees. At the same
+time, such a provision for the private sector should not be linked to an
+obligation to use it. eco is convinced that with the provision of a uniform ID in
+combination with market-driven solutions for the provision of services and
+applications around the ID, the best possible solution for society, the
+economy and the state can take place.
+
+III. Summary and evaluation
+
+eco supports the revision of the legal framework for trust services.
+Particularly from the point of view of strengthening digital identities and
+general services in less critical areas (single sign-on), this is welcome in the
+opinion of eco and necessary in view of the low penetration. With a view to
+the digital single market, a uniform solution across Europe would make
+sense for citizens as well as for governments and the economy. However,
+when redesigning the legal framework, care should be taken to ensure that
+any planned EUid or other solution does not make the mistake of similar
+national considerations in earlier years and focus on specific services or
+products or strive for proprietary and costly solutions. An open connectable
+system with a high degree of interoperability that enables the simplest and
+most cost-effective integration into various products and services and
+acceptable requirements for the authorisation for the operation of
+corresponding ID services are, in the opinion of eco, imperative to make the
+Commission's plans a success, otherwise they will fail either due to a lack of
+demand because of too much specialisation or due to a lack of offers in the
+market. In the eco's view, an obligation to use such a system would then
+also no longer make sense if it becomes established in the market anyway.
+This would also allow room for innovation. Minimum requirements for the
+security of hardware and software used should nevertheless be pursued in
+the standard to be aimed for within the framework of the security by design
+approach in order to reduce the risks of misuse and identity theft.

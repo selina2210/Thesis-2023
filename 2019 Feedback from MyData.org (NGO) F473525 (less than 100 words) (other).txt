@@ -1,0 +1,3 @@
+It now looks clear that Self-Sovereign Identity (SSI) will be the foundation of foundations. This is especially important to enable a wide
+variety of data providers and data users in large ecosystems across borders in Life-Event Driven service design and Real Time Economy.
+Has this been taken into account?

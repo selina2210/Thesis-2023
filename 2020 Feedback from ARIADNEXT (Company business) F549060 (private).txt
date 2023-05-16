@@ -1,0 +1,80 @@
+First of all, we would like to acknowledge the extraordinary work already carried
+out by the European Commission on the eIDAS Regulation and on the approach
+and method chosen for its revision.
+
+We agree with the diagnosis made in the "Inception Impact Assessment" on the
+state of development of eIDs in Europe and the consequences that this situation
+has on the development of a large common European digital market. The
+disparities that exist between the different countries and the divergent national
+strategies (opening up to service providers from the private sector or not, single
+national identity provider or private identity providers, etc.) risk creating divides
+that will be difficult to bridge. This is why we do not believe that the status quo
+defined by the baseline scenario is feasible.
+
+On reading the Inception Impact Assessment, we understand that the options
+described are not mutually exclusive and that, on the contrary, they would in all
+likelihood have to be combined in order to achieve a satisfactory result. Thus, it
+seems difficult to consider option 2 without having implemented option 1, and
+option 3 seems to require at least a good part of options 1 and 2.
+
+Option 1:
+This option seems to us to be the minimum change to be made. It reduces the
+disparities regarding prior verification of identity, especially at a distance, and is
+an important step.
+
+Similarly, abandoning the doctrine of technological neutrality, if it leads to the
+adoption of open and already recognized international standards and
+specifications, will reduce the technical difficulties encountered today in
+ensuring the interoperability of solutions.
+
+It might then be possible to allow an Identity Provider evaluated in one Member
+State and meeting the technical specifications of another Member State to
+operate in the latter without having to go through a lengthy and costly
+evaluation again.
+
+Member States could also be encouraged or forced to open up their identity
+schemes to private Identity Providers, which should foster innovation and user
+experience once a business model is defined. The existence of a business model
+for digital identity seems to us to be an indispensable element: if there is no
+business model, digital identity will either be financed by taxes, which will not
+encourage innovation, or at the mercy of players who will derive additional
+benefit from becoming an identity provider. It therefore seems important to us
+that Member States should be obliged to provide an economic model for their
+identity scheme as soon as it is open to private service providers.
+
+As a private identity provider in France, we are confronted not with the absence
+of an economic model, since the service providers are prepared to pay, but with
+a lack of market organization in a model where the National Scheme plays the
+role of aggregator without assuming the consequences.
+
+Option 2:
+We consider this option to be highly desirable, as identification is often not
+sufficient to access a service, for example a banking KYC. But we do not believe
+it is necessary to go as far as defining new Trust Services. Indeed, if we take the
+example of a banking KYC, the providers of the necessary attributes are already
+identified (tax authority, utility bill, etc.) and adding an additional element in the
+trust chain does not seem to us to facilitate integration.
+
+Option 3:
+We believe that the introduction of a "European Digital Identity scheme" would
+be an extremely important way of strengthening the use and deployment of
+electronic identity in Europe. A fully harmonised e-identity scheme covering
+Europe would allow a transition from the current, very different systems to a
+common standard which would significantly contribute to adoption, both from
+a purely technical and economic point of view, but also increase adoption in
+terms of ease of acceptance and use.
+
+We believe that this is even the only desirable horizon as it avoids the
+fragmentation of solutions which is a real danger for European players who will
+not manage to reach a critical size in a market made up of national schemes with
+special requirements.
+
+Additional comment on digital residency :
+eIDAS and GDPR are extraordinary tools that shape a European conception of
+digital. In this sense they are both protectors and bearers of European values.
+It seems important to us to be able to project them beyond European borders
+and to allow non-EU citizens to be issued with a digital identity by a European
+Identity Provider, to use European online services and to place themselves under
+the European legal umbrella. Restrictions on residence or nationality that are
+sometimes present (explicitly or implicitly) in certain national identity schemes
+should therefore be banned.

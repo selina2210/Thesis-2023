@@ -1,0 +1,38 @@
+Insurance Europe welcomes the evaluation of the 2014 eIDAS Regulation and accompanying revision of the current legal framework. Digital
+identities and the associated processes of authentication and authorisation are an essential component of the digital single market and of
+national and European economies, especially against the backdrop of the COVID-19 pandemic.
+
+Secure, easy-to-use digital identities, and their verification, that are available to all companies and EU citizens offer a high added value.
+Digital identities could, for example, help to simplify the fulfilment of data protection rights and make them more secure. The right of
+access is the basis for all other existing data subject rights. However, before providing any information to a data subject, the controller
+must ensure that the person requesting the information is actually the person concerned. Otherwise, there is a risk of a data protection
+breach leading to sanctions. To protect themselves, companies are sometimes forced, depending on the sensitivity of the data, to put in
+place cumbersome procedures to determine the identity of the contact person. This in turn may be perceived by those affected as a
+deliberate attempt to delay or prevent the assertion of their rights. Therefore, the promotion and strengthening of digital identities especially in cross-border processes and against the background of a digitally sovereign Europe - as well as a close partnership with
+business, is to be welcomed. Recent technological and political developments, such as the increasing dependence on online business, must
+also be duly taken into account.
+
+Insurance Europe believes that the extension of the legal framework to the private sector is to be welcomed in principle. However, this
+should not create a regulatory burden on companies. Double regulation and a lack of proportionality, which could have a negative impact on
+everyday business, should be avoided. With the expansion to the private sector, a simultaneous recognition of private eID solutions in
+eGovernment would be desirable.
+
+It should be noted that the legal framework should create harmonising framework conditions but should in no way reduce the efficiency of
+innovative solutions and business processes. Digital identification processes should be secure and compliant with data protection legislation
+but should not be subject to any higher legal requirements than non-digital solutions.
+
+The insurance industry generally welcomes the introduction and voluntary use of a European digital identity system (EUid), as a
+supplementary eID solution, especially for cross-border processes. However, there is a need for further clarity over the exact regulatory and
+technological implementation of such a system. It would therefore be important to involve industry from the start in the development of
+any EUid scheme.
+
+The liability for trust service providers is already partially harmonised by the current legal framework of the eIDAS Regulation (Article 13),
+so it is questionable as to whether further harmonisation of liability is necessary and suitable to achieve the stated goals.
+
+Any efforts that seek to strengthen digital economic activity in Europe are to be welcomed, particularly in light of the changing geopolitical
+environment.
+
+Insurance Europe wishes to highlight that some of the issues referred to in the roadmap leave unanswered questions or require further
+discussion or clarification. Overall, however, subject to further details regarding the precise content and the implementation of the
+proposals, Insurance Europe would support a combination of the three policy options put forward by the Commission, ie improving the
+functioning of the eIDAS Regulation, extending its reach to the private sector and creating an EU-wide digital ID (EUid).

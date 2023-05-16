@@ -1,0 +1,10 @@
+The eIDAS regulation and its digital identities are for me a targeted answer to fight against the ever increasing fraud in the digital economy. It thus becomes a pivotal point, along with the GDPR, of digital sovereignty by guaranteeing that only digital identity data (civil status data in France) are portable from the moment of the adoption of the regulation. digital identity data (civil status data in France) are portable as soon as customers use eIDAS identities.
+
+in France: "France Connect".
+
+The trust introduced into the digital economy by the use of eIDAS identities, including cross-border use, contributes to digital sovereignty. digital sovereignty. Customers accessing dematerialised services using a substantial level of digital identity benefit from security and trust compared to the current level of security without any impact on the customer experience.
+
+Digital identities with the right attributes to sign with probative value ensure the uptake and adoption of new technologies. and adoption of new digital behaviours by consumers, users and the European citizen.
+
+In my view, eIDAS identities are strong enough to avoid the need to create sectoral identities such as a financial identity. If the purpose of a financial identity is to reinforce sectoral controls, adding attributes to current eIDAS identities is sufficient to achieve the required level of trust.
+It seems to me much more urgent to create an eIDAS identity for businesses and professionals.

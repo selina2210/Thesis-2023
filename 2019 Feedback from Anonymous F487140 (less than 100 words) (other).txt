@@ -1,0 +1,11 @@
+
+There are 2 trust services that are not included in Eidas and should:
+
+1. Paper documents digitization. Composed of: image capture, esignature or eseal, and edocument preservation. Optional download link
+inclusion.
+2. Digital Handwritten Electronic Signature. Composed of: Advanced signature, biometric signature capture, biometric information
+encryption, document hash binding, Comparison with reference signature
+
+Video onboarding defined in article 24 and related to article 8 should be harmonized among countries and defined in common requirements.
+These requirements should be developed in an ETSI standard. Video onboarding services should be defined as independent qualified
+services.

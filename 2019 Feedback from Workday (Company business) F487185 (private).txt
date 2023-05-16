@@ -1,0 +1,51 @@
+Workday supports the important goals of eIDAS, namely establishing interoperable
+electronic identification schemes (eID) and the development of a European internal
+market for electronic trust services. However, while the implementation of eIDAS has
+demonstrated some positive advancement of these goals, the Regulation could also use
+updating in light of rapidly advancing technology and consumer practices. Only by
+providing certainty on the legal validity of both public and private digital services across
+all technology choices, will businesses, consumers, and government realize the full
+benefits of eIDAS.
+
+Expanded Definition of Trust Services
+
+As more and more aspects of everyday life, from banking to applying for work, are being
+conducted digitally, the definition of “trust services” should be expanded to include not
+just authenticating a signature or other means of verification (such as a seal or time
+stamp), but also to include services verifying information and credentials (including
+diplomas and other educational achievements) provided by electronic means. For
+example, a nurse can prove various required qualifications and skills by providing
+certification to a hospital upon applying for a job, and a qualified trust service provider
+can then quickly authenticate those credentials. Under the current Regulation, a
+qualified trusted service provider can only provide authentication of the applicant
+themselves, but the nursing certification must still be independently verified, which is a
+time consuming process.
+
+Expanding the definition of trust services to expressly include the authentication of any
+information or transaction, not just signatures or seals, ultimately will create more utility,
+and in turn greater adoption of eID.
+
+Legal Recognition of Blockchain-based Records and Transactions
+
+Current EU law, including eIDAS, leaves some ambiguity regarding the use of
+blockchain to conduct legal transactions. As the use of blockchain has quickly become
+more common and widespread, Workday supports policies that give legal effect to
+blockchain-based records and transactions, including transactions based on information
+and identity authenticated by using blockchain and distributed ledger technology.
+
+An update to eIDAS should provide a clear recognition that electronic transactions and
+trust services conducted on the blockchain or a distributed ledger are legally valid, and
+that information created, stored, or secured on or through a blockchain can in turn be
+provided as part of the expanded definition of trusted service.
+
+This could be done by amending eIDAS to add the concept of a “qualified trusted
+blockchain or distributed ledger” capable of issuing legally binding trust services.
+Several aspects of the existing requirements for qualified electronic signatures in the
+Regulation are highly impractical for blockchain networks (especially open or
+“permissionless” networks). Conversely, certain configurations of blockchain networks
+could raise unique risks that the Regulation did not contemplate and does not address.
+Amendments to the Regulation should seek to resolve these issues. For example, if all
+validating nodes of a blockchain system must be qualified trust service providers (or
+qualified electronic signature creation devices) in order to issue qualified electronic
+signatures, this will increase transaction cost and impose significant costs—and
+potentially also liability—on the operators of any such nodes.

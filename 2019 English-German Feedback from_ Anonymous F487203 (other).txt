@@ -1,0 +1,5 @@
+We expressly welcome the uniform legal framework created by the eIDAS Regulation for the handling of digital business processes and the standardisation of electronic identification systems and electronic signatures.
+
+Nevertheless, the implementation was not consistent enough due to existing regulatory gaps in the member states. Too few specifications and incentives were created for the use of the corresponding tools to digitise existing processes, which is why the available tools are largely unknown among the population. This results in a chicken-and-egg problem that could easily be solved if dissemination were "learned" through application in the e-government environment.
+
+Specifically, we would also like to see uniform requirements for the identification obligations in the context of issuing qualified electronic signatures in order to further promote the electronic conclusion of consumer credit agreements. So far, the processes necessary for this are not very practicable and are not oriented towards the expectations of consumers in the context of digital processes.

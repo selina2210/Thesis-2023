@@ -1,0 +1,10 @@
+We share the view that the take-up of eIDAS in the private sector as well as in the public domain must be improved. But, for us it is unclear
+what the exact impediments for take up in the private sector are. Feedback from private eID issuers include the lack of financial incentives
+to open the system free of charge for (foreign) public sector relying parties. Thus, it should be discussed, what the exact problems are and
+then how to solve them.
+
+In our view, it is most important to improve the situation as fast as possible. At the same time the investments made by private and public
+parties should be protected. While the options 2 and 3 would perhaps improve the situation in far future, many of the goals can certainly be
+achieved quite fast by adjustments to the current eIDAS framework, e.g. by clarifying cost-model and the access conditions of private
+parties and by making the notification process less complex. Such possible improvements should be taken into account by comparing the
+different options.

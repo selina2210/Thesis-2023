@@ -1,0 +1,47 @@
+Our feedback is based on our experience from advising about cross-border services where
+the companies take employees on construction projects in another member state.
+
+From our point of view, the eIDAS Regulation provides a framework and tools that can unleash a large potential for growth in the Single Market, and at the same time strengthen the
+rule of law. When conducting the evaluation, we propose to the European Commission to
+consider the following questions:
+ How are the member states going about identifying the procedures that companies
+and their employees need to complete cross-border? I.e. which user oriented procedure flows that today are only accessible on paper or with an eID that is only attainable for residents, can become digitised and accessible remotely with an eID from another member state?
+ How is the knowledge about the eIDAS Regulation and its potential today and how
+can it be spread to more users?
+ What can be done in order to create a genuine digital Single Point of Entry for companies to supply information to (Once Only Principle) and from which competent authorities can retrieve the information they need?
+
+State of play
+During the latest years legislators have had a strong focus on fraudulent practices and social
+dumping. Such practices are unacceptable and should be addressed by a more efficient enforcement, both on national level and through better cross-border cooperation between authorities. But what we have seen instead, is a tendency towards new legislation both on EUlevel and nationally that puts more and more obligations on ALL companies making compliance much harder.
+
+We see the eIDAS Regulation as a crucial part of the solution. Enabling companies to identify themselves securely with their national eID and to complete administrative procedures
+remotely in another member state will be a significant alleviation of administrative burdens.
+
+However to our knowledge, the access to another member state’s digital services still requires acquiring a national eID in this state. And there seems to be a lack of knowledge of
+the eIDAS Regulation and the tools and possibilities it provides.
+
+Example from a user’s point of view
+A good example is a specific construction ID-card that all employees on construction sites
+are required to carry. This ID-card is issued by a private operator but it requires for Danes to
+complete a number of registrations with the Danish social security authority (digitally with
+national eID) and taxation authority (paper) as well as the other member state’s taxation authority (paper). Also, the Danish company owners, persons authorised to sign, and the employees to be posted to the other member state, have to verify their identity using an eID,
+which requires that the Danish company establishes a branch in this other member state.
+The construction companies that are resident in this member state and their employees can
+use their national eIDs. A correct and full application of the eIDAS Regulation would make
+this kind of administrative procedures both faster and more secure - for all parties involved.
+
+Potential in the longer term
+In the longer term, the eIDAS Regulation, together with the Single Digital Gateway and IMI,
+can unlock an even greater potential in the Single Market. Digitisation should make it easier
+for a company to prove – in real live and based on the need of the company and the competent authorities – that the company is genuine, and that it complies with the national regulations and obligations; and when working in another member state, with this state’s national
+regulations and obligations.
+
+There are already several European active and upcoming registers, for example the BRISdatabase, VAT Mini One Stop Shop, the Electronic Exchange of Social Security Information
+(EESSI), the insolvency register. Also on national level, companies may apply for a wide
+range of “papers” that prove their law-abiding status; for example an official certificate needed in order to be able to participate in the EU tender, the European Single Procurement Document (ESPD), a certificate from a national social security institution (for example from German SOKA BAU). And in many countries there are mandatory posting notification registers.
+
+So there are several different communication channels from company to authority and vice
+versa, and many pieces of information are already out there.
+
+Therefore, we encourage the Commission to use the evaluation of the application of the
+eIDAS Regulation to combine forces with the member states to bring these pieces and channels together and create a genuine Single Point of Entry for companies and authorities.

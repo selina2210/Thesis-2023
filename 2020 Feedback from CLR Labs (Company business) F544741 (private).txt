@@ -1,0 +1,65 @@
+eIDAS has been the first regulation to cover the digital world replacing the previous electronic
+signature directive from 1999 and have created the first federated Digital Identity scheme in the world.
+
+By giving a legal definition of electronic identification and electronic authentication, the European
+Commission and the Members states have created the first legal definition of what is the Digital
+Identity : it is corresponding to the sum of electronic identification (who I am) and electronic
+authentication (How I prove it).
+
+This definition come with a complete set of requirements (enrollment, issuance, usage and security
+measures, peer review etc.).
+
+The eIDAS regulation has also created a legal certainty for the on-line onboarding. This has opened
+a completed new field of opportunities for European Start-ups and SMEs by creating new business
+models. We have seen since 2014 the creation hundreds of European startups and SMEs proposing
+eIDAS compliant on-boarding solutions, liveness detection modules, biometrics identification and
+verification.
+
+It is critical to protect these critical assets and developed further our European ecosystem be
+continuing to develop the current eIDAS regulation possibilities.
+
+These current eIDAS possibilities are still not yet fully realized but are in a very good way, and
+European Startups and SMEs need stability and time to growth. Business Angels may be also
+impacted with any large revision of the eIDAS regulation and may be stopped some investments
+decisions in start-ups and SME’s.
+
+Any drastic change on the current eIDAS regulation will destabilized this European precious
+ecosystem.
+
+CLR Labs is strongly supporting the option 1 proposed by the European Commission, the two
+others will create bad messages and signals to the market and may stop some current projects.
+The current eIDAS projects may be delayed from to 2 or 3 years waiting for both the co-decision
+and the implementing acts are fully completed.
+
+Furthermore, the option 2 will bring electronic identification and electronic authentication toward
+server based or cloud-based solution and removing the necessary local interaction with the user
+(using a mobile application, a USB token, an eID card etc…).
+
+The user will be losing its sole control of these critical processes (identification and
+authentication).
+
+Centralizing these two critical processes will benefits to global and large actors and not to the
+European start-ups and SMEs.
+
+The option 1 will be helping the current eIDAS European eco-system to better benefits from the
+current opportunity of the current eIDAS regulation. Using implementing acts and guidelines will
+help in getting the fine tuning of the European interoperability.
+
+By example, and based on our competence domain, the article 24.d would need to be complemented
+by a guideline mentioning that European Laboratories ISO/IEC 17025 accredited on the ISO/IEC
+30107 standards (presentation attack detection) and having a serious evaluation methodology is the
+way to prove to the eIDAS CAB (Conformity Assessment Body) that the proposed solution is
+compliant against the requirements of the article 24.d.
+
+This will be a great help to the eIDAS CAB auditors. They can rely on evaluation report issued by
+accredited laboratories and reduce the potential fraud linked to the identity spoofing when Biometrics
+verification is used (Facial recognition, Fingerprint presentation, vocal recognition etc…).
+The second challenge is to make sure that the biometrics solution and the associated evaluation
+laboratories are GDPR compliant and are putting the right security, organizational measure to manage
+sensible data such as biometrics ones.
+
+In this respect, CLR Labs has clear mission statement: Toward Biometrics certified with European
+Values.
+We believed that a European Biometrics Certification Scheme should be prepared within the Cyber
+Security Certification framework of the European Cybersecurity Act. It is a question of digital
+sovereignty and alignment with the European Values.

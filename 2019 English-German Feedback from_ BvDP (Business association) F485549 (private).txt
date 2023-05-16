@@ -1,0 +1,13 @@
+The Federal Association of German Postal Service Providers (BvDP) represents international companies working directly or indirectly (as supporters) in the postal and logistics markets; in the communications, postal, letter and parcel markets. Our commentary describes the experience in Germany.
+
+The eIDAS registered letter fulfils the requirements for legally binding digital communication according to the EU Regulation 910/2014 on electronic identification and trust services for electronic transactions in the internal market (eIDAS Regulation). However, there is currently no equality and interoperability with De-Mail services.
+To date, however, a large number of digitisation efforts have failed due to a lack of standardisation and consistency.
+- The E-Government Act and the Civil Code (among others), for example, do not take eIDAS into account.
+- The binding nature and sustainability of implementation are lacking.
+- Trust service providers lack the clout to disseminate European standards.
+
+The provision of infrastructure for the digitisation of communication is the duty, the transfer to use is the freestyle.
+- Legal gaps must be closed and European regulations must be taken into account.
+- The privileged status of De-Mail must be abolished.
+- The trust service providers must work closely together to implement the digitisation projects.
+De-Mail and the eIDAS letter should be put on an equal footing for digital written communication and for compliance with text form. Interoperability is an important lever for gaining reach and acceptance.

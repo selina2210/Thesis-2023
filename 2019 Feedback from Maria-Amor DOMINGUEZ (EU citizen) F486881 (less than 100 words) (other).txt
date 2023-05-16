@@ -1,0 +1,8 @@
+1. Update including the current IT related regulations such as:
+. EN 50600 for Data Centers that appears a little bit confusing on the previous version
+. GDPR, that it was not released as such during the implementation of eiDAs
+
+2. Support in sectorial implementation, maybe as an appendix because there are sectors very dependant on safe electronic transactions
+(i.e. electronic payment for e-commerce) that are quite far away from the use of the eiDas regulation.
+
+3. Reference to Member States IT related security regulation and standards like the National Security Scheme

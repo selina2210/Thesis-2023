@@ -1,0 +1,19 @@
+The concept of combining the three options makes a lot of sense, although it may require a longer migration period to move from the
+current eIDAS to the next phase.
+
+Option 1 includes identity verification for issuing qualified certificates. Identity verification should include remote identity verification
+solutions. The international standards organization, Fast Identity Online (FIDO) Alliance is currently developing possession-based identity
+verification and binding performance requirements along with certification assessment criteria for those requirements. Depending on the
+timing, eIDAS could leverage FIDO’s work and include it in the updated eIDAS regulation. In addition, a recent trend is utilizing databases
+maintained by member state governments to verify attributes voluntarily with auditable and recorded user consent. Attributes could include
+such as name, address, driver license number, date of birth, and social security or health ID numbers.
+
+Although facial recognition technology has been negatively reported on primarily when used in law enforcement and border control
+applications. However, when used for online authentication into a web site or mobile application, facial recognition technology has been well
+received by the general public for its balance of security and user experience benefits. Since they are distinct use cases for the technology,
+the Commission should not omit facial recognition for authentication in the update.
+
+Option 3’s European Digital Identity scheme (EUid) is a worthwhile endeavor. On the surface the initiative is similar to the Pan-Canadian
+Trust Framework currently under development by the Digital Identity and Authentication Council of Canada (DIACC). If the EUid scheme
+moves forward, we recommend that member states follow the Government of Canada’s lead and collaborate with vendors and relying
+parties such as financial institutions, healthcare institutions, e-commerce companies, and naturally representatives from member states.

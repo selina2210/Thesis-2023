@@ -1,0 +1,25 @@
+Finnish ministry of Social Affairs and Health thanks fo opportunity to give comments on the eIDAS
+regulation revision.
+
+For social and health care sector usage of personal information is very important. Information is
+collected during processes and it is distributed to other participants in the process. In this work
+identity of the person is crucial for high quality service. Because of high sensitivity of information
+identification and authentification is import if there are any eServices related.
+
+In Finland there is the national ID that is used in all sectors. The finnish ID is given to all visitors as well
+if they use social and health care services and this ID is used to store information related to them. As
+an additional information their original ID can be stored to the records..
+
+In healthcare there is the European definition how to transfer prescriptions and patient records from
+Finland to theirs own country. Identities are converted in this process.
+
+Common ID cross member states would make easier to manage patient information from other
+member states and people traveling between member states. In Finland we have already cross
+sectoral national ID and thus we have good capability of using such ID. However, current ID is
+implemented in so many systems already that changing the format or content of the ID has been
+estimated to cause several hundreds of millions costs and requiring several years to implement. In
+this sector it is difficult to see such big advantages that such costs are justified. With a long enough
+transition the change is possible to implement if it is otherwise found important.
+
+In authentification systems there is no social or healthcare specific system but general national
+electronic authentification system is used.

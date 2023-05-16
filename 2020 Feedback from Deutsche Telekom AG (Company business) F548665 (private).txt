@@ -1,0 +1,40 @@
+Deutsche Telekom AG welcomes the Commission's initiative to revise and expand the eIDAS regulation. It favors a combination of the three
+described options. The EUid should go far beyond the current approach and enable its use in both the public and the private sector.
+In contrast to today's private approaches, the EUid must be available to all citizens. The required security must be on a high technical level,
+guarantee digital sovereignty, support a security-by-design approach and enable a fully decentralized use of the EUid on the high level of
+European requirements for data protection and data economy.
+
+The previous technology openness of eIDAS lead to interpretations of requirements and to an equalization of hardware and software
+solutions. EIDAS-compliant solutions that use secure hardware such as secure elements in smartphones (SEs) should be preferred in any
+case due to the significantly increased protection e.g. against identity thefts. Therefore, at least the introduction of a mechanism strength
+definition in addition to the levels of assurance (LOA) is favored, in which the implementation on evaluated security hardware should lead to
+a higher value. This could be marked with a "+", e.g. "low+, substantial+ and high+". It also would be desirable to define an evaluationand certification process according to eIDAS at least in level "high" in order to guarantee a uniform LOA.
+
+An additional task is to create the legal and regulatory framework for a non-discriminatory use of the SEs for service providers. The existing
+standardization enables the establishment of a standardized core component of the ecosystem for the administration of EUids on the SEs.
+This component should be made available both to all smartphone manufacturers and service providers without any kind of discrimination.
+This is the only way to cover a wide range of smartphones and to prevent isolated solutions from individual manufacturers or service
+providers, that have previously prevented broad market coverage.
+
+The new eIDAS regulation should make it possible to derive an eID from various underlying IDs such as an electronic identity card. A level
+of trust should be defined for eIDs, that indicates both the "level" of the underlying, and of the derived EUid, and can also underline the use
+of hardware security.
+
+The new eIDAS regulation is intended to enable integration in many scenarios and to support implementation rules and global device and
+browser standards. An X.509 PKI would be possible as a basis.
+In addition to technical interoperability, legal interoperability is particularly important. This should be guaranteed across the entire range of
+EUid applications. In addition to the requirements, e.g. qualified server certificates to be checked by a device application or a browser,
+should also be addressed. Goals are uniform standards and legal requirements for the identification of natural and legal persons across all
+applications.
+
+The acceptance of the guideline is of crucial importance. In order to avoid hurdles on ID providers, developers and integrators side –
+especially for use in the private sector – possible implementation regulations must enable an easy implementation and integration into
+existing systems. This principle applies to websites and entities that already require identification and can achieve a higher level of security
+by the new eIDAS regulation.
+
+For the acceptance on the part of the citizens, an eIDAS-compliant system must be easy to set up and easy to use. In addition, offline
+authentication, offline identification and anonymous authentication should be possible. The use of the system should also be easier or as
+simple as a username-password combination.
+
+It is essential that administrative processes in European Member States continue to be harmonized and adapted to the digital age. The aim
+here is to consistently avoid media breaks and to design the processes in a user-friendly and administration-optimized manner.

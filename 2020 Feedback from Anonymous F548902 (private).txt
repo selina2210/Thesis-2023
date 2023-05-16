@@ -1,0 +1,33 @@
+First of all, as a private sector stakeholder, we are pleased to submit our feedback to the Commission on the future revision of the eIDAS
+Regulation.
+
+We completely agree with the current limitations of the eIDAS Regulation underlined by the Commission. It is true that not all Member
+States offer eIDs and the usage in the private sector is limited. This is mostly due to two reasons. First, fragmented practices and
+standardization issues create an obstacle for cross-border activities. For example, a digital service provider, with a solid eIDAS compliant
+solution, cannot offer its solution as it is in all Member States since every Member State has different obligations for identity verification
+methods used in the qualified certificate issuances. Thus, the Regulation does not guarantee a standard way of application and this requires
+the provider to adapt its solution to the new regulations for every new market. This is, without a doubt, is a cost-burden process. Second,
+there is a lack of public-private incentives. Such incentives can actually help the diffusion of eIDs in both sectors.
+
+Considering the problematics highlighted above, we think the best answer would be a combination of Option 1 and Option 2. Option 1
+suggests complementing the existing eIDAS framework with additional acts and guidelines on the application of specific provisions of the
+eIDAS Regulation. This can, surely, ease the cross-border problems that the private sector is encountering. However, the guidelines and
+indications should be clear enough not to let space for different interpretations by national competent authorities and enhance further
+harmonization. Extending the scope of eID regulation to the private sector, as Option 2 suggests, introducing new trust services for
+identification, authentication, and for the provision of attributes, credentials and attestations and allowing the provision of identification for
+devices would definitely create new business opportunities. Here again, the standardization of interfaces and the interoperable frameworks
+are two crucial aspects, which should be the main focus.
+
+On the other hand, we think that the Option 3 could go against the objectives of previous options since it will establish an additional eID
+mechanism, which requires the Member States to adopt along with the national eID schemes. The voluntary basis applications always tend
+to bring diversified applications and disrupt the harmonization and standardization efforts. Moreover, it is to be considered that today not all
+the Member States notified their eID schemes. This is, partially, because the adaptation of infrastructures takes time and mostly because
+there are still some blur points on the application of these schemes; there is a lack of willingness to diffuse the application among public
+services, and there is a significant absence of private sector usage. It is more likely to these issues manifest themselves also for the
+European Digital Identity scheme (EUid). Therefore, the priority should be assuring the correct and efficient functioning of national eID
+schemes and increase interoperability among them.
+
+Finally, in our opinion, the revision should focus on perfecting the eIDAS Regulation's shortfalls by preparing clear, well-defined technologyneutral guidelines, which will help to create new business opportunities for the private sector and enhance the cross-border activities; and
+by working on the improvement of interoperability of national eID schemes extending their application fields, which is limited under today's
+circumstances. More ambitious interventions like Option 3 could be an option only when the EU will have a well-functioning eID framework
+all over its territory.
