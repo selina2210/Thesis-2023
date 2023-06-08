@@ -1,1 +1,1 @@
-The files of this folder contain notes about the qualitative coding process (open and axial coding stages).
+Note: The files of this folder contain notes about the qualitative coding process (open and axial coding stages). The memo provides a step-by-step description of that process. The manuscript also includes examples illustrating the coding process.  
